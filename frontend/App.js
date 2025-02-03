@@ -1,100 +1,44 @@
-import React, { useState, useEffect } from "react";
-import axios from "axios";
-import { Line } from "react-chartjs-2";
-import { Chart as ChartJS, CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend } from "chart.js";
-import Slider from "@mui/material/Slider";
-import Checkbox from "@mui/material/Checkbox";
-import FormControlLabel from "@mui/material/FormControlLabel";
-
-ChartJS.register(CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend);
+import React, { useState } from 'react';
+import axios from 'axios';
 
 const App = () => {
-  const [data, setData] = useState([]);
-  const [filteredData, setFilteredData] = useState([]);
-  const [sites, setSites] = useState([]);
-  const [selectedSites, setSelectedSites] = useState([]);
-  const [dateRange, setDateRange] = useState([new Date("2020-01-01").getTime(), new Date("2023-12-31").getTime()]);
+  const [data, setData] = useState(null);
+  const [loading, setLoading] = useState(false);
+  const [error, setError] = useState(null);
 
-  useEffect(() => {
-    axios.get("http://localhost:5001/get-data") // Make a request to your backend API
-      .then((response) => {
-        setData(response.data);
-        setFilteredData(response.data);
-        const siteOptions = Array.from(new Set(response.data.map((row) => row.Site)));
-        setSites(siteOptions);
+  // Handle the data processing logic
+  const handleProcessData = async () => {
+    setLoading(true);
+    setError(null);
+    try {
+      // Sending the POST request to the backend with the dataFrameUrl
+      const response = await axios.post('http://localhost:5001/process-data', {
+        dataFrameUrl: 'https://github.com/grcxreed/healthscreening-data-app/blob/main/HealthScreeningTracking.csv'  // Replace with your actual CSV URL
       });
-  }, []);
-
-  useEffect(() => {
-    const filtered = data.filter((row) => {
-      const rowDate = new Date(row.Date).getTime();
-      const matchesDate = rowDate >= dateRange[0] && rowDate <= dateRange[1];
-      const matchesSite = selectedSites.length === 0 || selectedSites.includes(row.Site);
-      return matchesDate && matchesSite;
-    });
-    setFilteredData(filtered);
-  }, [selectedSites, dateRange, data]);
-
-  const handleSiteChange = (event) => {
-    const { value, checked } = event.target;
-    setSelectedSites((prev) =>
-      checked ? [...prev, value] : prev.filter((site) => site !== value)
-    );
-  };
-
-  const handleDateChange = (event, newValue) => {
-    setDateRange(newValue);
-  };
-
-  const chartData = {
-    labels: filteredData.map((row) => row.Date),
-    datasets: [
-      {
-        label: "Wellness Score",
-        data: filteredData.map((row) => row.Wellness_Score),
-        fill: false,
-        borderColor: "rgba(75, 192, 192, 1)",
-        tension: 0.1,
-      },
-    ],
+      setData(response.data.processedData);  // Assuming 'processedData' is returned by the backend
+    } catch (error) {
+      setError('Error processing data');  // Show error if request fails
+    } finally {
+      setLoading(false);
+    }
   };
 
   return (
     <div>
-      <h1>Health Screening Dashboard</h1>
+      {/* Button to trigger data processing */}
+      <button onClick={handleProcessData} disabled={loading}>
+        {loading ? 'Processing...' : 'Process Data'}
+      </button>
 
-      {/* Filter by Sites */}
-      <div>
-        {sites.map((site) => (
-          <FormControlLabel
-            key={site}
-            control={
-              <Checkbox
-                checked={selectedSites.includes(site)}
-                onChange={handleSiteChange}
-                value={site}
-                color="primary"
-              />
-            }
-            label={site}
-          />
-        ))}
-      </div>
+      {/* Display error message if there was an issue */}
+      {error && <p>{error}</p>}
 
-      {/* Date Range Slider */}
-      <Slider
-        value={dateRange}
-        onChange={handleDateChange}
-        valueLabelDisplay="auto"
-        valueLabelFormat={(value) => new Date(value).toLocaleDateString()}
-        min={new Date("2020-01-01").getTime()}
-        max={new Date("2023-12-31").getTime()}
-        step={86400000} // 1 day in ms
-      />
-
-      {/* Data Visualization */}
-      {filteredData.length > 0 && (
-        <Line data={chartData} />
+      {/* Display the processed data when available */}
+      {data && (
+        <div>
+          <h3>Processed Data:</h3>
+          <pre>{JSON.stringify(data, null, 2)}</pre>
+        </div>
       )}
     </div>
   );

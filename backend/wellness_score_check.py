@@ -18,8 +18,8 @@ def process_health_data(file_path):
     # Ensure numeric columns are treated as numbers
     df['Chol'] = pd.to_numeric(df['Chol'], errors='coerce')
     df['Glu'] = pd.to_numeric(df['Glu'], errors='coerce')
-    df['BP (sys)'] = pd.to_numeric(df['BP (sys)'], errors='coerce')
-    df['BP (dia)'] = pd.to_numeric(df['BP (dia)'], errors='coerce')
+    df['BP (sys)'] = pd.to_numeric(df['BP..sys.'], errors='coerce')
+    df['BP (dia)'] = pd.to_numeric(df['BP..dia.'], errors='coerce')
     df['Fasting'] = pd.to_numeric(df['Fasting'], errors='coerce')
 
     # Function to calculate the intermediate wellness score for cholesterol
@@ -73,18 +73,18 @@ def process_health_data(file_path):
     )
 
     # Calculate the overall wellness score for each individual by averaging the intermediate wellness scores
-    df['Wellness Score'] = df.groupby(['Last Name', 'First Name', 'Date'])['Intermediate Wellness Score'].transform('mean')
+    df['Wellness Score'] = df.groupby(['ID', 'Date'])['Intermediate Wellness Score'].transform('mean')
 
     # Drop duplicates to keep only one row per individual with the overall wellness score
-    df_final = df.drop_duplicates(subset=['Last Name', 'First Name', 'Date']).reset_index(drop=True)
+    df_final = df.drop_duplicates(subset=['ID', 'Date']).reset_index(drop=True)
 
     # Save the processed data to a JSON file
-    output_data = df_final[['Last Name', 'First Name', 'Date', 'Intermediate Wellness Score', 'Wellness Score']].to_dict(orient='records')
+    output_data = df_final[['ID', 'Date', 'Intermediate Wellness Score', 'Wellness Score']].to_dict(orient='records')
     with open('output.json', 'w') as json_file:
         json.dump(output_data, json_file, indent=4)
 
     # Return the final DataFrame
-    return df_final[['Last Name', 'First Name', 'Date', 'Intermediate Wellness Score', 'Wellness Score']]
+    return df_final[['ID', 'Date', 'Intermediate Wellness Score', 'Wellness Score']]
 
 if __name__ == "__main__":
     if len(sys.argv) != 2:
@@ -96,4 +96,4 @@ if __name__ == "__main__":
 
     # Display the processed data
     print(processed_data)
-
+    
