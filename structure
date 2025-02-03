@@ -1,0 +1,25 @@
+/healthscreening-data-app
+│
+├── /backend
+│   ├── index.js                     # Entry point for the backend API (Node.js/Express app)
+│   ├── wellness_score_check.py      # Python script for processing health data
+│   ├── server.js                    # Backend API (Express app to handle POST request)
+│   ├── /node_modules                # Dependencies installed via npm
+│   ├── package.json                 # Node.js project configuration (dependencies, scripts)
+│   ├── package-lock.json            # Lock file for Node.js dependencies
+│   └── .gitignore                   # Git ignore file (to exclude node_modules, etc.)
+│
+├── /frontend
+│   ├── /public                      # Public files (index.html, assets, etc.)
+│   ├── /src                         # React app source files
+│   │   ├── App.js                   # React component for frontend interface
+│   │   ├── index.js                 # Entry point of React app
+│   │   └── /components              # Reusable components for the frontend
+│   │
+│   ├── package.json                 # Frontend dependencies (React, Axios, etc.)
+│   ├── package-lock.json            # Lock file for frontend dependencies
+│   └── .gitignore                   # Git ignore file for frontend-specific files
+│
+├── /data                             # Folder to store CSVs or other data
+│   └── HealthScreeningTracking.csv   # Sample CSV file for health screening data
+│
