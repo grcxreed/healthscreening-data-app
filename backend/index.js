@@ -11,16 +11,14 @@ app.use(cors());  // Use CORS middleware after app is initialized
 const port = 5001;
 
 const uri = "mongodb+srv://gracereed:parsimony76@healthscreeningdata.uqd0d.mongodb.net/healthscreeningdata?retryWrites=true&w=majority";
-const client = new MongoClient(uri, {
-  useUnifiedTopology: true,
-});
+const client = new MongoClient(uri);
 
 app.use(express.json()); // To parse JSON requests
 
 // Route to run Python script
 app.post('/process-data', async (req, res) => {
   const { dataFrameUrl } = req.body;  // Expecting the URL of the DataFrame hosted on GitHub
-  
+
   try {
     // Download the CSV file from the URL (we need to download it locally)
     const response = await axios.get(dataFrameUrl);
@@ -28,7 +26,7 @@ app.post('/process-data', async (req, res) => {
 
     // Save the CSV content to a local file
     fs.writeFileSync(filePath, response.data);
-    
+
     // Run the Python script with the path to the temporary file
     exec(`python3 wellness_score_check.py ${filePath}`, (error, stdout, stderr) => {
       if (error) {
@@ -41,7 +39,7 @@ app.post('/process-data', async (req, res) => {
         .then(() => {
           const db = client.db();
           const collection = db.collection('processedData');
-          
+
           // Parse the output from the Python script (JSON format)
           const processedData = JSON.parse(stdout);
 
@@ -57,12 +55,20 @@ app.post('/process-data', async (req, res) => {
         .catch(err => {
           console.error("MongoDB connection failed", err);
           res.status(500).json({ error: "MongoDB connection failed" });
+        })
+        .finally(() => {
+          client.close();  // Close the MongoDB connection after the operation
         });
     });
   } catch (error) {
     console.error('Error downloading CSV:', error);
     res.status(500).json({ error: "Error downloading the CSV file" });
   }
+});
+
+// Basic route to display a message
+app.get('/', (req, res) => {
+  res.send('Hello, world! The server is up and running.');
 });
 
 // Start the server
