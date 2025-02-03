@@ -1,0 +1,1179 @@
+ID,Site,Date,DOB,Gender,Language,Test,Abnormal.Normal,Chol,Glu,Fasting,BP..sys.,BP..dia.,PCP,Appt,Change,If.no..considering.,Age
+171,MNC,2023-11-17,1942-03-28,F,Spanish,Cholesterol,Normal,190,NA,NA,NA,NA,NA,NA,NA,NA,NA
+171,MNC,2023-11-17,1942-03-28,F,Spanish,Glucose,Abnormal,,147,0,NA,NA,NA,NA,NA,NA,NA
+171,MNC,2023-11-17,1942-03-28,F,Spanish,BP,Abnormal,,NA,NA,126,68,0,NA,NA,1,NA
+250,MNC,2023-11-17,1949-05-16,F,Spanish,Cholesterol,Normal,164,NA,NA,NA,NA,NA,NA,NA,NA,NA
+250,MNC,2023-11-17,1949-05-16,F,Spanish,Glucose,Abnormal,,123,1,NA,NA,NA,NA,NA,NA,NA
+250,MNC,2023-11-17,1949-05-16,F,Spanish,BP,Normal,,NA,NA,107,77,1,1,1,NA,NA
+189,MNC,2023-11-17,1934-05-15,F,Spanish,Cholesterol,Normal,194,NA,NA,NA,NA,NA,NA,NA,NA,NA
+189,MNC,2023-11-17,1934-05-15,F,Spanish,Glucose,Abnormal,,215,0,NA,NA,NA,NA,NA,NA,NA
+189,MNC,2023-11-17,1934-05-15,F,Spanish,BP,Normal,,NA,NA,113,62,1,0,1,NA,NA
+225,MNC,2023-11-17,1999-11-07,M,English,Cholesterol,Normal,174,NA,NA,NA,NA,NA,NA,NA,NA,NA
+225,MNC,2023-11-17,1999-11-07,M,English,Glucose,Normal,,80,0,NA,NA,NA,NA,NA,NA,NA
+225,MNC,2023-11-17,1999-11-07,M,English,BP,Abnormal,,NA,NA,123,74,0,NA,NA,NA,NA
+219,MNC,2023-11-17,1953-12-03,F,Spanish,Cholesterol,Abnormal,204,NA,NA,NA,NA,NA,NA,NA,NA,NA
+219,MNC,2023-11-17,1953-12-03,F,Spanish,Glucose,Normal,,100,0,NA,NA,NA,NA,NA,NA,NA
+219,MNC,2023-11-17,1953-12-03,F,Spanish,BP,Normal,,NA,NA,112,74,1,NA,NA,NA,NA
+262,MNC,2023-11-17,1942-08-06,F,Spanish,Cholesterol,Abnormal,222,NA,NA,NA,NA,NA,NA,NA,NA,NA
+262,MNC,2023-11-17,1942-08-06,F,Spanish,Glucose,Normal,,106,0,NA,NA,NA,NA,NA,NA,NA
+262,MNC,2023-11-17,1942-08-06,F,Spanish,BP,Normal,,NA,NA,113,68,1,1,1,NA,NA
+175,MNC,2023-11-17,1956-02-11,F,Spanish,Cholesterol,Normal,156,NA,NA,NA,NA,NA,NA,NA,NA,NA
+175,MNC,2023-11-17,1956-02-11,F,Spanish,Glucose,Normal,,120,0,NA,NA,NA,NA,NA,NA,NA
+175,MNC,2023-11-17,1956-02-11,F,Spanish,BP,Normal,,NA,NA,106,75,1,NA,NA,NA,NA
+217,Stonestown YMCA,2023-12-19,1944-12-04,F,English,Glucose,Normal,,95,0,NA,NA,NA,NA,NA,NA,NA
+217,Stonestown YMCA,2023-12-19,1944-12-04,F,English,BP,Abnormal,,NA,NA,130,87,0,0,NA,NA,NA
+275,Stonestown YMCA,2023-12-19,1943-06-13,M,English,Cholesterol,Normal,149,NA,NA,NA,NA,NA,NA,NA,NA,NA
+275,Stonestown YMCA,2023-12-19,1943-06-13,M,English,Glucose,Normal,,126,0,NA,NA,NA,NA,NA,NA,NA
+275,Stonestown YMCA,2023-12-19,1943-06-13,M,English,BP,Abnormal,,NA,NA,146,85,1,1,NA,NA,NA
+97,Stonestown YMCA,2023-12-19,1948-08-09,F,English,Cholesterol,Normal,155,NA,NA,NA,NA,NA,NA,NA,NA,NA
+97,Stonestown YMCA,2023-12-19,1948-08-09,F,English,Glucose,Normal,,100,0,NA,NA,NA,NA,NA,NA,NA
+97,Stonestown YMCA,2023-12-19,1948-08-09,F,English,BP,Abnormal,,NA,NA,126,71,1,0,NA,NA,NA
+120,Stonestown YMCA,2023-12-19,NA,,English,Cholesterol,Abnormal,210,NA,NA,NA,NA,NA,NA,NA,NA,NA
+120,Stonestown YMCA,2023-12-19,NA,,English,Glucose,Normal,,87,0,NA,NA,NA,NA,NA,NA,NA
+120,Stonestown YMCA,2023-12-19,NA,,English,BP,Abnormal,,NA,NA,143,80,1,1,1,NA,NA
+279,Stonestown YMCA,2023-12-19,1938-04-08,F,English,Cholesterol,Normal,,98,0,NA,NA,NA,NA,NA,NA,NA
+279,Stonestown YMCA,2023-12-19,1938-04-08,F,English,Glucose,Normal,,90,0,NA,NA,NA,NA,NA,NA,NA
+279,Stonestown YMCA,2023-12-19,1938-04-08,F,English,BP,Abnormal,,NA,NA,124,73,1,1,NA,NA,NA
+135,Stonestown YMCA,2023-12-19,1935-06-24,M,English,Cholesterol,Normal,157,NA,NA,NA,NA,NA,NA,NA,NA,NA
+135,Stonestown YMCA,2023-12-19,1935-06-24,M,English,Glucose,Normal,,117,0,NA,NA,NA,NA,NA,NA,NA
+135,Stonestown YMCA,2023-12-19,1935-06-24,M,English,BP,Normal,,NA,NA,106,62,1,1,NA,NA,NA
+194,Stonestown YMCA,2023-12-19,1938-05-27,F,English,Cholesterol,Normal,166,NA,NA,NA,NA,NA,NA,NA,NA,NA
+194,Stonestown YMCA,2023-12-19,1938-05-27,F,English,Glucose,Normal,,87,0,NA,NA,NA,NA,NA,NA,NA
+194,Stonestown YMCA,2023-12-19,1938-05-27,F,English,BP,Abnormal,,NA,NA,128,82,1,0,0,1,NA
+314,Stonestown YMCA,2023-12-19,1949-02-27,M,English,Cholesterol,Abnormal,201,NA,NA,NA,NA,NA,NA,NA,NA,NA
+314,Stonestown YMCA,2023-12-19,1949-02-27,M,English,Glucose,Normal,,101,0,NA,NA,NA,NA,NA,NA,NA
+314,Stonestown YMCA,2023-12-19,1949-02-27,M,English,BP,Normal,,NA,NA,113,64,1,0,NA,NA,NA
+287,Stonestown YMCA,2023-12-19,1952-11-01,F,English,Cholesterol,Abnormal,225,NA,NA,NA,NA,NA,NA,NA,NA,NA
+287,Stonestown YMCA,2023-12-19,1952-11-01,F,English,Glucose,Normal,,113,0,NA,NA,NA,NA,NA,NA,NA
+287,Stonestown YMCA,2023-12-19,1952-11-01,F,English,BP,Abnormal,,NA,NA,136,82,1,0,1,NA,NA
+9,Stonestown YMCA,2023-12-19,1934-07-16,M,English,Cholesterol,Normal,150,NA,NA,NA,NA,NA,NA,NA,NA,NA
+9,Stonestown YMCA,2023-12-19,1934-07-16,M,English,Glucose,Normal,,95,0,NA,NA,NA,NA,NA,NA,NA
+9,Stonestown YMCA,2023-12-19,1934-07-16,M,English,BP,Normal,,NA,NA,118,60,1,NA,NA,NA,NA
+117,Stonestown YMCA,2023-12-19,1967-09-14,F,English,Cholesterol,Normal,110,NA,NA,NA,NA,NA,NA,NA,NA,NA
+117,Stonestown YMCA,2023-12-19,1967-09-14,F,English,Glucose,Normal,,100,0,NA,NA,NA,NA,NA,NA,NA
+117,Stonestown YMCA,2023-12-19,1967-09-14,F,English,BP,Normal,,NA,NA,110,65,1,0,1,NA,NA
+236,Stonestown YMCA,2023-12-19,1964-06-13,F,English,Cholesterol,Abnormal,226,NA,NA,NA,NA,NA,NA,NA,NA,NA
+236,Stonestown YMCA,2023-12-19,1964-06-13,F,English,Glucose,Normal,,94,0,NA,NA,NA,NA,NA,NA,NA
+236,Stonestown YMCA,2023-12-19,1964-06-13,F,English,BP,Abnormal,,NA,NA,116,81,1,0,NA,NA,NA
+243,Stonestown YMCA,2023-12-19,1949-09-08,F,English,Cholesterol,Normal,157,NA,NA,NA,NA,NA,NA,NA,NA,NA
+243,Stonestown YMCA,2023-12-19,1949-09-08,F,English,Glucose,Normal,,107,0,NA,NA,NA,NA,NA,NA,NA
+243,Stonestown YMCA,2023-12-19,1949-09-08,F,English,BP,Normal,,NA,NA,102,70,1,0,0,1,NA
+56,Stonestown YMCA,2023-12-19,1951-11-27,F,English,Cholesterol,Normal,163,NA,NA,NA,NA,NA,NA,NA,NA,NA
+56,Stonestown YMCA,2023-12-19,1951-11-27,F,English,Glucose,Normal,,115,0,NA,NA,NA,NA,NA,NA,NA
+56,Stonestown YMCA,2023-12-19,1951-11-27,F,English,BP,Abnormal,,NA,NA,126,80,1,0,NA,NA,NA
+42,MNC,2024-01-05,1947-07-10,F,Spanish,Cholesterol,Normal,156,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42,MNC,2024-01-05,1947-07-10,F,Spanish,Glucose,Normal,,124,0,NA,NA,NA,NA,NA,NA,NA
+42,MNC,2024-01-05,1947-07-10,F,Spanish,BP,Normal,,NA,NA,106,63,1,1,0,1,NA
+271,MNC,2024-01-05,1963-09-28,F,Spanish,Cholesterol,Normal,168,NA,NA,NA,NA,NA,NA,NA,NA,NA
+271,MNC,2024-01-05,1963-09-28,F,Spanish,Glucose,Normal,,116,0,NA,NA,NA,NA,NA,NA,NA
+271,MNC,2024-01-05,1963-09-28,F,Spanish,BP,Normal,,NA,NA,103,76,1,1,NA,1,NA
+7,MNC,2024-01-05,1947-07-02,F,Spanish,Cholesterol,Abnormal,275,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7,MNC,2024-01-05,1947-07-02,F,Spanish,Glucose,Normal,,99,0,NA,NA,NA,NA,NA,NA,NA
+7,MNC,2024-01-05,1947-07-02,F,Spanish,BP,Abnormal,,NA,NA,126,76,1,1,1,1,NA
+20,MNC,2024-01-05,1952-02-15,,Spanish,Cholesterol,Normal,192,NA,NA,NA,NA,NA,NA,NA,NA,NA
+20,MNC,2024-01-05,1952-02-15,,Spanish,Glucose,Abnormal,,100,1,NA,NA,NA,NA,NA,NA,NA
+20,MNC,2024-01-05,1952-02-15,,Spanish,BP,Abnormal,,NA,NA,122,75,1,0,NA,1,NA
+66,MNC,2024-01-05,1940-12-28,F,Spanish,Cholesterol,Normal,168,NA,NA,NA,NA,NA,NA,NA,NA,NA
+66,MNC,2024-01-05,1940-12-28,F,Spanish,Glucose,Normal,,119,0,NA,NA,NA,NA,NA,NA,NA
+66,MNC,2024-01-05,1940-12-28,F,Spanish,BP,Abnormal,,NA,NA,124,70,1,NA,NA,1,NA
+314,MNC,2024-01-05,1949-02-27,M,English,Cholesterol,Normal,157,NA,NA,NA,NA,NA,NA,NA,NA,NA
+314,MNC,2024-01-05,1949-02-27,M,English,Glucose,Normal,,91,1,NA,NA,NA,NA,NA,NA,NA
+314,MNC,2024-01-05,1949-02-27,M,English,BP,Normal,,NA,NA,110,67,1,0,0,0,NA
+37,MNC,2024-01-05,1946-04-16,F,Spanish,Cholesterol,Abnormal,253,NA,NA,NA,NA,NA,NA,NA,NA,NA
+37,MNC,2024-01-05,1946-04-16,F,Spanish,Glucose,Abnormal,,108,1,NA,NA,NA,NA,NA,NA,NA
+37,MNC,2024-01-05,1946-04-16,F,Spanish,BP,Abnormal,,NA,NA,143,96,1,0,0,0,NA
+192,MNC,2024-01-05,1942-03-28,F,Spanish,Cholesterol,Normal,174,NA,NA,NA,NA,NA,NA,NA,NA,NA
+192,MNC,2024-01-05,1942-03-28,F,Spanish,Glucose,Normal,,133,0,NA,NA,NA,NA,NA,NA,NA
+192,MNC,2024-01-05,1942-03-28,F,Spanish,BP,Normal,,NA,NA,119,73,1,1,1,1,NA
+25,MNC,2024-01-05,1941-05-04,F,English,Cholesterol,Normal,186,NA,NA,NA,NA,NA,NA,NA,NA,NA
+25,MNC,2024-01-05,1941-05-04,F,English,Glucose,Normal,,105,0,NA,NA,NA,NA,NA,NA,NA
+25,MNC,2024-01-05,1941-05-04,F,English,BP,Normal,,NA,NA,107,59,1,0,NA,NA,NA
+262,MNC,2024-01-05,1942-08-06,,,Cholesterol,Abnormal,222,NA,NA,NA,NA,NA,NA,NA,NA,NA
+262,MNC,2024-01-05,1942-08-06,,,Glucose,Normal,,108,0,NA,NA,NA,NA,NA,NA,NA
+262,MNC,2024-01-05,1942-08-06,,,BP,Abnormal,,NA,NA,134,67,1,1,1,NA,NA
+205,MNC,2024-01-05,NA,,,Cholesterol,Normal,190,NA,NA,NA,NA,NA,NA,NA,NA,NA
+205,MNC,2024-01-05,NA,,,Glucose,Normal,,139,0,NA,NA,NA,NA,NA,NA,NA
+205,MNC,2024-01-05,NA,,,BP,Normal,,NA,NA,113,68,1,0,0,1,NA
+263,MNC,2024-01-05,1947-05-21,F,Spanish,Cholesterol,Normal,189,NA,NA,NA,NA,NA,NA,NA,NA,NA
+263,MNC,2024-01-05,1947-05-21,F,Spanish,Glucose,Normal,,89,0,NA,NA,NA,NA,NA,NA,NA
+263,MNC,2024-01-05,1947-05-21,F,Spanish,BP,Abnormal,,NA,NA,130,82,1,1,1,NA,NA
+6,MNC,2024-02-02,1947-02-07,F,Spanish,Cholesterol,Abnormal,258,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6,MNC,2024-02-02,1947-02-07,F,Spanish,Glucose,Normal,,99,0,NA,NA,NA,NA,NA,NA,NA
+6,MNC,2024-02-02,1947-02-07,F,Spanish,BP,Abnormal,,NA,NA,146,76,1,0,1,1,NA
+43,MNC,2024-02-02,1947-07-10,F,Spanish,Cholesterol,Normal,185,NA,NA,NA,NA,NA,NA,NA,NA,NA
+43,MNC,2024-02-02,1947-07-10,F,Spanish,Glucose,Abnormal,,143,0,NA,NA,NA,NA,NA,NA,NA
+43,MNC,2024-02-02,1947-07-10,F,Spanish,BP,Normal,,NA,NA,115,68,1,1,1,1,NA
+17,MNC,2024-02-02,1938-12-18,,Spanish,Cholesterol,Normal,197,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17,MNC,2024-02-02,1938-12-18,,Spanish,Glucose,Abnormal,,122,1,NA,NA,NA,NA,NA,NA,NA
+17,MNC,2024-02-02,1938-12-18,,Spanish,BP,Abnormal,,NA,NA,164,76,1,1,NA,NA,NA
+184,MNC,2024-02-02,NA,,Spanish,Cholesterol,Abnormal,252,NA,NA,NA,NA,NA,NA,NA,NA,NA
+184,MNC,2024-02-02,NA,,Spanish,Glucose,Abnormal,,192,0,NA,NA,NA,NA,NA,NA,NA
+184,MNC,2024-02-02,NA,,Spanish,BP,Normal,,NA,NA,98,66,0,1,1,NA,NA
+137,MNC,2024-02-02,1962-07-26,M,English,Cholesterol,Abnormal,210,NA,NA,NA,NA,NA,NA,NA,NA,NA
+137,MNC,2024-02-02,1962-07-26,M,English,Glucose,Normal,,75,1,NA,NA,NA,NA,NA,NA,NA
+137,MNC,2024-02-02,1962-07-26,M,English,BP,Abnormal,,NA,NA,123,81,1,NA,NA,NA,NA
+314,MNC,2024-02-02,1949-02-27,M,English,Cholesterol,Normal,136,NA,NA,NA,NA,NA,NA,NA,NA,NA
+314,MNC,2024-02-02,1949-02-27,M,English,Glucose,Normal,,80,1,NA,NA,NA,NA,NA,NA,NA
+314,MNC,2024-02-02,1949-02-27,M,English,BP,Normal,,NA,NA,120,73,1,0,0,0,NA
+63,MNC,2024-02-02,1997-03-05,F,Spanish,Cholesterol,Abnormal,205,NA,NA,NA,NA,NA,NA,NA,NA,NA
+63,MNC,2024-02-02,1997-03-05,F,Spanish,Glucose,Normal,,96,0,NA,NA,NA,NA,NA,NA,NA
+63,MNC,2024-02-02,1997-03-05,F,Spanish,BP,Normal,,NA,NA,117,75,NA,NA,NA,NA,NA
+44,MNC,2024-02-02,1953-11-29,F,Spanish,Cholesterol,Normal,162,NA,NA,NA,NA,NA,NA,NA,NA,NA
+44,MNC,2024-02-02,1953-11-29,F,Spanish,Glucose,Normal,,99,0,NA,NA,NA,NA,NA,NA,NA
+44,MNC,2024-02-02,1953-11-29,F,Spanish,BP,Normal,,NA,NA,115,76,NA,NA,NA,NA,NA
+174,MNC,2024-02-02,1949-06-13,F,,Cholesterol,Normal,190,NA,NA,NA,NA,NA,NA,NA,NA,NA
+174,MNC,2024-02-02,1949-06-13,F,,Glucose,Normal,,136,0,NA,NA,NA,NA,NA,NA,NA
+174,MNC,2024-02-02,1949-06-13,F,,BP,Normal,,NA,NA,99,68,1,0,1,NA,NA
+262,MNC,2024-02-02,1942-08-06,F,Spanish,Cholesterol,Abnormal,228,NA,NA,NA,NA,NA,NA,NA,NA,NA
+262,MNC,2024-02-02,1942-08-06,F,Spanish,Glucose,Normal,,124,0,NA,NA,NA,NA,NA,NA,NA
+262,MNC,2024-02-02,1942-08-06,F,Spanish,BP,Abnormal,,NA,NA,130,66,1,1,1,NA,NA
+16,MNC,2024-02-02,1953-10-30,F,Spanish,Cholesterol,Abnormal,253,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16,MNC,2024-02-02,1953-10-30,F,Spanish,Glucose,Normal,,94,0,NA,NA,NA,NA,NA,NA,NA
+16,MNC,2024-02-02,1953-10-30,F,Spanish,BP,Abnormal,,NA,NA,136,78,1,NA,NA,NA,NA
+192,MNC,2024-02-02,1942-03-28,F,Spanish,Cholesterol,Normal,197,NA,NA,NA,NA,NA,NA,NA,NA,NA
+192,MNC,2024-02-02,1942-03-28,F,Spanish,Glucose,Normal,,103,0,NA,NA,NA,NA,NA,NA,NA
+192,MNC,2024-02-02,1942-03-28,F,Spanish,BP,Normal,,NA,NA,110,67,1,1,0,1,NA
+6,MNC,2024-02-02,1947-02-07,F,Spanish,Cholesterol,Abnormal,258,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6,MNC,2024-02-02,1947-02-07,F,Spanish,Glucose,Normal,,99,0,NA,NA,NA,NA,NA,NA,NA
+6,MNC,2024-02-02,1947-02-07,F,Spanish,BP,Abnormal,,NA,NA,146,76,1,1,1,NA,NA
+42,MNC,2024-02-02,1947-07-10,F,Spanish,Cholesterol,Normal,185,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42,MNC,2024-02-02,1947-07-10,F,Spanish,Glucose,Abnormal,,143,0,NA,NA,NA,NA,NA,NA,NA
+42,MNC,2024-02-02,1947-07-10,F,Spanish,BP,Normal,,NA,NA,115,68,1,1,1,1,NA
+18,MNC,2024-02-02,1938-12-18,F,Spanish,Cholesterol,Normal,197,NA,NA,NA,NA,NA,NA,NA,NA,NA
+18,MNC,2024-02-02,1938-12-18,F,Spanish,Glucose,Normal,,122,0,NA,NA,NA,NA,NA,NA,NA
+18,MNC,2024-02-02,1938-12-18,F,Spanish,BP,Abnormal,,NA,NA,164,76,1,1,NA,NA,NA
+183,MNC,2024-02-02,NA,F,Spanish,Cholesterol,Abnormal,252,NA,NA,NA,NA,NA,NA,NA,NA,NA
+183,MNC,2024-02-02,NA,F,Spanish,Glucose,Abnormal,,192,0,NA,NA,NA,NA,NA,NA,NA
+183,MNC,2024-02-02,NA,F,Spanish,BP,Normal,,NA,NA,98,66,0,1,1,NA,NA
+137,MNC,2024-02-02,1962-07-26,M,English,Cholesterol,Abnormal,210,NA,NA,NA,NA,NA,NA,NA,NA,NA
+137,MNC,2024-02-02,1962-07-26,M,English,Glucose,Normal,,75,1,NA,NA,NA,NA,NA,NA,NA
+137,MNC,2024-02-02,1962-07-26,M,English,BP,Abnormal,,NA,NA,123,81,1,NA,NA,NA,NA
+314,MNC,2024-02-02,1949-02-27,M,English,Cholesterol,Normal,156,NA,NA,NA,NA,NA,NA,NA,NA,NA
+314,MNC,2024-02-02,1949-02-27,M,English,Glucose,Normal,,80,1,NA,NA,NA,NA,NA,NA,NA
+314,MNC,2024-02-02,1949-02-27,M,English,BP,Normal,,NA,NA,120,73,1,0,0,0,NA
+64,MNC,2024-02-02,1997-03-05,F,Spanish,Cholesterol,Abnormal,205,NA,NA,NA,NA,NA,NA,NA,NA,NA
+64,MNC,2024-02-02,1997-03-05,F,Spanish,Glucose,Normal,,96,0,NA,NA,NA,NA,NA,NA,NA
+64,MNC,2024-02-02,1997-03-05,F,Spanish,BP,Normal,,NA,NA,117,75,NA,NA,NA,NA,NA
+44,MNC,2024-02-02,1953-11-29,F,Spanish,Cholesterol,Normal,162,NA,NA,NA,NA,NA,NA,NA,NA,NA
+44,MNC,2024-02-02,1953-11-29,F,Spanish,Glucose,Normal,,99,0,NA,NA,NA,NA,NA,NA,NA
+44,MNC,2024-02-02,1953-11-29,F,Spanish,BP,Normal,,NA,NA,115,76,NA,NA,NA,NA,NA
+174,MNC,2024-02-02,1949-06-13,F,Spanish,Cholesterol,Normal,190,NA,NA,NA,NA,NA,NA,NA,NA,NA
+174,MNC,2024-02-02,1949-06-13,F,Spanish,Glucose,Normal,,136,0,NA,NA,NA,NA,NA,NA,NA
+174,MNC,2024-02-02,1949-06-13,F,Spanish,BP,Normal,,NA,NA,99,68,1,0,1,NA,NA
+262,MNC,2024-02-02,1942-08-06,F,Spanish,Cholesterol,Abnormal,228,NA,NA,NA,NA,NA,NA,NA,NA,NA
+262,MNC,2024-02-02,1942-08-06,F,Spanish,Glucose,Normal,,124,0,NA,NA,NA,NA,NA,NA,NA
+262,MNC,2024-02-02,1942-08-06,F,Spanish,BP,Abnormal,,NA,NA,130,66,1,1,NA,NA,NA
+4,MNC,2024-02-02,1993-10-30,F,Spanish,Cholesterol,Abnormal,253,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4,MNC,2024-02-02,1993-10-30,F,Spanish,Glucose,Normal,,94,0,NA,NA,NA,NA,NA,NA,NA
+4,MNC,2024-02-02,1993-10-30,F,Spanish,BP,Abnormal,,NA,NA,136,78,1,NA,NA,NA,NA
+192,MNC,2024-02-02,1942-03-28,F,Spanish,Cholesterol,Normal,197,NA,NA,NA,NA,NA,NA,NA,NA,NA
+192,MNC,2024-02-02,1942-03-28,F,Spanish,Glucose,Normal,,103,0,NA,NA,NA,NA,NA,NA,NA
+192,MNC,2024-02-02,1942-03-28,F,Spanish,BP,Normal,,NA,NA,110,67,1,1,0,1,NA
+263,MNC,2024-03-01,1947-05-21,F,Spanish,Cholesterol,Normal,187,NA,NA,NA,NA,NA,NA,NA,NA,NA
+263,MNC,2024-03-01,1947-05-21,F,Spanish,Glucose,Normal,,88,0,NA,NA,NA,NA,NA,NA,NA
+263,MNC,2024-03-01,1947-05-21,F,Spanish,BP,Abnormal,,NA,NA,113,84,1,1,NA,NA,NA
+199,MNC,2024-03-01,1959-12-23,F,Spanish,Cholesterol,Normal,149w,NA,NA,NA,NA,NA,NA,NA,NA,NA
+199,MNC,2024-03-01,1959-12-23,F,Spanish,Glucose,Normal,,110,0,NA,NA,NA,NA,NA,NA,NA
+199,MNC,2024-03-01,1959-12-23,F,Spanish,BP,Abnormal,,NA,NA,139,76,1,0,1,NA,NA
+339,MNC,2024-03-01,1953-05-06,M,Mandarin,Cholesterol,Normal,190,NA,NA,NA,NA,NA,NA,NA,NA,NA
+339,MNC,2024-03-01,1953-05-06,M,Mandarin,Glucose,Normal,,120,0,NA,NA,NA,NA,NA,NA,NA
+339,MNC,2024-03-01,1953-05-06,M,Mandarin,BP,Normal,,NA,NA,98,60,NA,NA,NA,NA,NA
+338,MNC,2024-03-01,1953-08-10,F,Mandarin,Cholesterol,Normal,149w,NA,NA,NA,NA,NA,NA,NA,NA,NA
+338,MNC,2024-03-01,1953-08-10,F,Mandarin,Glucose,Normal,,123,0,NA,NA,NA,NA,NA,NA,NA
+338,MNC,2024-03-01,1953-08-10,F,Mandarin,BP,Abnormal,,NA,NA,123,70,1,0,0,NA,NA
+259,MNC,2024-03-01,1938-12-17,F,Spanish,Cholesterol,Abnormal,250,NA,NA,NA,NA,NA,NA,NA,NA,NA
+259,MNC,2024-03-01,1938-12-17,F,Spanish,Glucose,Normal,,129,0,NA,NA,NA,NA,NA,NA,NA
+259,MNC,2024-03-01,1938-12-17,F,Spanish,BP,Normal,,NA,NA,117,57,1,1,1,1,NA
+117,MNC,2024-03-01,1967-09-14,F,English,Cholesterol,Abnormal,231,NA,NA,NA,NA,NA,NA,NA,NA,NA
+117,MNC,2024-03-01,1967-09-14,F,English,Glucose,Normal,,91,0,NA,NA,NA,NA,NA,NA,NA
+117,MNC,2024-03-01,1967-09-14,F,English,BP,Normal,,NA,NA,87,63,1,0,0,0,NA
+216,MNC,2024-03-01,1942-03-28,F,Spanish,Cholesterol,Normal,192,NA,NA,NA,NA,NA,NA,NA,NA,NA
+216,MNC,2024-03-01,1942-03-28,F,Spanish,Glucose,Normal,,95,0,NA,NA,NA,NA,NA,NA,NA
+216,MNC,2024-03-01,1942-03-28,F,Spanish,BP,Normal,,NA,NA,105,63,1,1,NA,1,NA
+317,MNC,2024-03-01,1992-03-13,M,Mandarin,Cholesterol,Normal,161,NA,NA,NA,NA,NA,NA,NA,NA,NA
+317,MNC,2024-03-01,1992-03-13,M,Mandarin,Glucose,Normal,,108,0,NA,NA,NA,NA,NA,NA,NA
+316,MNC,2024-03-01,1992-03-13,M,Mandarin,BP,Normal,,NA,NA,96,68,1,0,0,1,NA
+334,MNC,2024-03-01,1935-10-03,M,Mandarin,Cholesterol,Abnormal,204,NA,NA,NA,NA,NA,NA,NA,NA,NA
+334,MNC,2024-03-01,1935-10-03,M,Mandarin,Glucose,Normal,,100,0,NA,NA,NA,NA,NA,NA,NA
+334,MNC,2024-03-01,1935-10-03,M,Mandarin,BP,Abnormal,,NA,NA,132,68,1,0,0,0,NA
+314,MNC,2024-03-01,1949-02-27,M,English,Cholesterol,Normal,150,NA,NA,NA,NA,NA,NA,NA,NA,NA
+314,MNC,2024-03-01,1949-02-27,M,English,Glucose,Normal,,95,1,NA,NA,NA,NA,NA,NA,NA
+314,MNC,2024-03-01,1949-02-27,M,English,BP,Abnormal,,NA,NA,124,72,1,0,0,0,NA
+42,MNC,2024-03-01,1947-07-10,F,Spanish,Cholesterol,Normal,161,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42,MNC,2024-03-01,1947-07-10,F,Spanish,Glucose,Abnormal,,159,0,NA,NA,NA,NA,NA,NA,NA
+42,MNC,2024-03-01,1947-07-10,F,Spanish,BP,Normal,,NA,NA,97,70,1,0,1,0,NA
+6,MNC,2024-03-01,1947-02-07,F,Spanish,Cholesterol,Abnormal,288,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6,MNC,2024-03-01,1947-02-07,F,Spanish,Glucose,Normal,,94,0,NA,NA,NA,NA,NA,NA,NA
+6,MNC,2024-03-01,1947-02-07,F,Spanish,BP,Abnormal,,NA,NA,143,79,1,1,1,NA,NA
+256,MNC,2024-03-01,1940-01-20,M,Spanish,Cholesterol,Abnormal,220,NA,NA,NA,NA,NA,NA,NA,NA,NA
+256,MNC,2024-03-01,1940-01-20,M,Spanish,Glucose,Abnormal,,146,0,NA,NA,NA,NA,NA,NA,NA
+256,MNC,2024-03-01,1940-01-20,M,Spanish,BP,Abnormal,,NA,NA,162,74,1,0,0,0,NA
+139,MNC,2024-03-01,1949-06-10,,Spanish,Cholesterol,Normal,158,NA,NA,NA,NA,NA,NA,NA,NA,NA
+139,MNC,2024-03-01,1949-06-10,,Spanish,Glucose,Normal,,80,0,NA,NA,NA,NA,NA,NA,NA
+139,MNC,2024-03-01,1949-06-10,,Spanish,BP,Abnormal,,NA,NA,142,90,NA,NA,NA,NA,NA
+139,MNC,2024-03-01,1949-06-10,,Spanish,BP,Abnormal,,NA,NA,128,82,1,0,1,1,NA
+129,Stonestown YMCA,2024-04-23,NA,F,English,Cholesterol,Normal,149,NA,NA,NA,NA,NA,NA,NA,NA,NA
+129,Stonestown YMCA,2024-04-23,NA,F,English,Glucose,Normal,,100,0,NA,NA,NA,NA,NA,NA,NA
+129,Stonestown YMCA,2024-04-23,NA,F,English,BP,Normal,,NA,NA,94,59,1,NA,NA,NA,NA
+215,Stonestown YMCA,2024-04-23,1945-09-10,F,English,Cholesterol,Abnormal,242,NA,NA,NA,NA,NA,NA,NA,NA,NA
+215,Stonestown YMCA,2024-04-23,1945-09-10,F,English,Glucose,Normal,,103,0,NA,NA,NA,NA,NA,NA,NA
+215,Stonestown YMCA,2024-04-23,1945-09-10,F,English,BP,Abnormal,,NA,NA,144,89,NA,NA,NA,NA,NA
+215,Stonestown YMCA,2024-04-23,1945-09-10,F,English,BP,Abnormal,,NA,NA,140,97,0,0,1,NA,NA
+98,Stonestown YMCA,2024-04-23,1948-08-09,F,English,Cholesterol,Normal,167,NA,NA,NA,NA,NA,NA,NA,NA,NA
+98,Stonestown YMCA,2024-04-23,1948-08-09,F,English,Glucose,Normal,,96,0,NA,NA,NA,NA,NA,NA,NA
+98,Stonestown YMCA,2024-04-23,1948-08-09,F,English,BP,Abnormal,,NA,NA,135,74,1,NA,NA,NA,NA
+137,Stonestown YMCA,2024-04-23,1962-07-26,M,English,Cholesterol,Abnormal,202,NA,NA,NA,NA,NA,NA,NA,NA,NA
+137,Stonestown YMCA,2024-04-23,1962-07-26,M,English,Glucose,Normal,,97,0,NA,NA,NA,NA,NA,NA,NA
+137,Stonestown YMCA,2024-04-23,1962-07-26,M,English,BP,Normal,,NA,NA,117,75,1,0,1,NA,NA
+279,Stonestown YMCA,2024-04-23,1938-04-08,F,English,Cholesterol,Abnormal,253,NA,NA,NA,NA,NA,NA,NA,NA,NA
+279,Stonestown YMCA,2024-04-23,1938-04-08,F,English,Glucose,Normal,,103,0,NA,NA,NA,NA,NA,NA,NA
+279,Stonestown YMCA,2024-04-23,1938-04-08,F,English,BP,Abnormal,,NA,NA,145,70,NA,NA,NA,NA,NA
+144,Stonestown YMCA,2024-04-23,1943-07-19,F,Chinese,Cholesterol,Abnormal,261,NA,NA,NA,NA,NA,NA,NA,NA,NA
+144,Stonestown YMCA,2024-04-23,1943-07-19,F,Chinese,Glucose,Abnormal,,185,0,NA,NA,NA,NA,NA,NA,NA
+144,Stonestown YMCA,2024-04-23,1943-07-19,F,Chinese,BP,Abnormal,,NA,NA,138,75,1,1,1,NA,NA
+173,Stonestown YMCA,2024-04-23,1945-04-13,F,English,Cholesterol,Abnormal,240,NA,NA,NA,NA,NA,NA,NA,NA,NA
+173,Stonestown YMCA,2024-04-23,1945-04-13,F,English,Glucose,Normal,,109,0,NA,NA,NA,NA,NA,NA,NA
+173,Stonestown YMCA,2024-04-23,1945-04-13,F,English,BP,Abnormal,,NA,NA,121,79,NA,NA,NA,NA,NA
+173,Stonestown YMCA,2024-04-23,1945-04-13,F,English,BP,Abnormal,,NA,NA,131,90,1,NA,NA,NA,NA
+194,Stonestown YMCA,2024-04-23,1938-05-27,F,English,Cholesterol,Normal,149,NA,NA,NA,NA,NA,NA,NA,NA,NA
+194,Stonestown YMCA,2024-04-23,1938-05-27,F,English,Glucose,Normal,,95,0,NA,NA,NA,NA,NA,NA,NA
+194,Stonestown YMCA,2024-04-23,1938-05-27,F,English,BP,Abnormal,,NA,NA,148,93,1,0,0,1,NA
+135,Stonestown YMCA,2024-04-23,1935-06-24,M,English,Cholesterol,Normal,149,NA,NA,NA,NA,NA,NA,NA,NA,NA
+135,Stonestown YMCA,2024-04-23,1935-06-24,M,English,Glucose,Normal,,126,0,NA,NA,NA,NA,NA,NA,NA
+135,Stonestown YMCA,2024-04-23,1935-06-24,M,English,BP,Abnormal,,NA,NA,123,67,1,0,0,1,NA
+101,Stonestown YMCA,2024-04-23,1957-03-18,F,Chinese,Cholesterol,Normal,183,NA,NA,NA,NA,NA,NA,NA,NA,NA
+101,Stonestown YMCA,2024-04-23,1957-03-18,F,Chinese,Glucose,Abnormal,,153,0,NA,NA,NA,NA,NA,NA,NA
+101,Stonestown YMCA,2024-04-23,1957-03-18,F,Chinese,BP,Abnormal,,NA,NA,122,64,1,1,1,NA,NA
+285,Stonestown YMCA,2024-04-23,1954-05-25,M,Chinese,Cholesterol,Normal,196,NA,NA,NA,NA,NA,NA,NA,NA,NA
+285,Stonestown YMCA,2024-04-23,1954-05-25,M,Chinese,Glucose,Normal,,123,0,NA,NA,NA,NA,NA,NA,NA
+285,Stonestown YMCA,2024-04-23,1954-05-25,M,Chinese,BP,Normal,,NA,NA,109,72,1,1,1,NA,NA
+286,Stonestown YMCA,2024-04-23,1952-11-01,F,English,Cholesterol,Normal,200,NA,NA,NA,NA,NA,NA,NA,NA,NA
+286,Stonestown YMCA,2024-04-23,1952-11-01,F,English,Glucose,Normal,,87,0,NA,NA,NA,NA,NA,NA,NA
+286,Stonestown YMCA,2024-04-23,1952-11-01,F,English,BP,Abnormal,,NA,NA,142,91,NA,NA,NA,NA,NA
+218,Stonestown YMCA,2024-04-23,1953-04-08,F,English,Cholesterol,Normal,109,NA,NA,NA,NA,NA,NA,NA,NA,NA
+218,Stonestown YMCA,2024-04-23,1953-04-08,F,English,Glucose,Abnormal,,98,0,NA,NA,NA,NA,NA,NA,NA
+218,Stonestown YMCA,2024-04-23,1953-04-08,F,English,BP,Abnormal,,NA,NA,160,103,1,NA,1,NA,NA
+122,Stonestown YMCA,2024-04-23,NA,F,English,Cholesterol,Abnormal,301,NA,NA,NA,NA,NA,NA,1,1,NA
+122,Stonestown YMCA,2024-04-23,NA,F,English,Glucose,Normal,,88,0,NA,NA,NA,NA,NA,NA,NA
+122,Stonestown YMCA,2024-04-23,NA,F,English,BP,Abnormal,,NA,NA,131,74,NA,NA,NA,NA,NA
+56,Stonestown YMCA,2024-04-23,1951-11-27,F,English,Glucose,Normal,,119,0,NA,NA,NA,NA,NA,NA,NA
+56,Stonestown YMCA,2024-04-23,1951-11-27,F,English,BP,Abnormal,,NA,NA,128,78,NA,NA,NA,NA,NA
+35,Stonestown YMCA,2024-04-23,1952-02-11,F,English,Cholesterol,Abnormal,203,NA,NA,NA,NA,NA,NA,NA,NA,NA
+35,Stonestown YMCA,2024-04-23,1952-02-11,F,English,Glucose,Normal,,99,0,NA,NA,NA,NA,NA,NA,NA
+35,Stonestown YMCA,2024-04-23,1952-02-11,F,English,BP,Abnormal,,NA,NA,134,78,1,0,1,NA,NA
+86,Stonestown YMCA,2024-04-23,NA,F,English,Cholesterol,Abnormal,267,NA,NA,NA,NA,NA,NA,NA,NA,NA
+86,Stonestown YMCA,2024-04-23,NA,F,English,Glucose,Normal,,96,0,NA,NA,NA,NA,NA,NA,NA
+86,Stonestown YMCA,2024-04-23,NA,F,English,BP,Abnormal,,NA,NA,133,85,NA,NA,NA,NA,NA
+86,Stonestown YMCA,2024-04-23,NA,F,English,BP,Abnormal,,NA,NA,133,90,NA,NA,NA,NA,NA
+204,Stonestown YMCA,2024-04-23,1958-05-15,F,English,Cholesterol,Normal,149,NA,NA,NA,NA,NA,NA,NA,NA,NA
+204,Stonestown YMCA,2024-04-23,1958-05-15,F,English,Glucose,Normal,,101,0,NA,NA,NA,NA,NA,NA,NA
+204,Stonestown YMCA,2024-04-23,1958-05-15,F,English,BP,Normal,,NA,NA,107,59,1,1,NA,NA,NA
+117,Stonestown YMCA,2024-04-23,1967-09-14,F,English,Cholesterol,Normal,196,NA,NA,NA,NA,NA,NA,NA,NA,NA
+117,Stonestown YMCA,2024-04-23,1967-09-14,F,English,Glucose,Normal,,95,1,NA,NA,NA,NA,NA,NA,NA
+117,Stonestown YMCA,2024-04-23,1967-09-14,F,English,BP,Normal,,NA,NA,85,58,1,1,1,NA,NA
+136,Stonestown YMCA,2024-04-23,1934-06-12,M,English,Cholesterol,Normal,149,NA,NA,NA,NA,NA,NA,NA,NA,NA
+136,Stonestown YMCA,2024-04-23,1934-06-12,M,English,Glucose,Normal,,109,0,NA,NA,NA,NA,NA,NA,NA
+136,Stonestown YMCA,2024-04-23,1934-06-12,M,English,BP,Normal,,NA,NA,115,70,1,1,1,NA,NA
+9,Stonestown YMCA,2024-04-23,1934-07-16,M,English,Cholesterol,Normal,196,NA,NA,NA,NA,NA,NA,NA,NA,NA
+9,Stonestown YMCA,2024-04-23,1934-07-16,M,English,Glucose,Normal,,91,1,NA,NA,NA,NA,NA,NA,NA
+9,Stonestown YMCA,2024-04-23,1934-07-16,M,English,BP,Abnormal,,NA,NA,134,58,1,1,NA,NA,NA
+93,Stonestown YMCA,2024-04-23,1945-03-11,F,English,Cholesterol,Normal,149,NA,NA,NA,NA,NA,NA,NA,NA,NA
+93,Stonestown YMCA,2024-04-23,1945-03-11,F,English,Glucose,Normal,,106,0,NA,NA,NA,NA,NA,NA,NA
+93,Stonestown YMCA,2024-04-23,1945-03-11,F,English,BP,Abnormal,,NA,NA,159,94,1,0,NA,NA,NA
+178,Stonestown YMCA,2024-04-23,1950-11-29,F,English,Cholesterol,Normal,185,NA,NA,NA,NA,NA,NA,NA,NA,NA
+178,Stonestown YMCA,2024-04-23,1950-11-29,F,English,Glucose,Normal,,109,0,NA,NA,NA,NA,NA,NA,NA
+178,Stonestown YMCA,2024-04-23,1950-11-29,F,English,BP,Abnormal,,NA,NA,159,94,1,NA,NA,NA,NA
+292,Stonestown YMCA,2024-04-23,1956-08-28,F,English,Cholesterol,Normal,163,NA,NA,NA,NA,NA,NA,NA,NA,NA
+292,Stonestown YMCA,2024-04-23,1956-08-28,F,English,Glucose,Normal,,86,0,NA,NA,NA,NA,NA,NA,NA
+292,Stonestown YMCA,2024-04-23,1956-08-28,F,English,BP,Abnormal,,NA,NA,131,84,1,0,1,NA,NA
+46,Stonestown YMCA,2024-04-23,1950-01-16,F,English,Cholesterol,Normal,171,NA,NA,NA,NA,NA,NA,NA,NA,NA
+46,Stonestown YMCA,2024-04-23,1950-01-16,F,English,Glucose,Normal,,100,0,NA,NA,NA,NA,NA,NA,NA
+46,Stonestown YMCA,2024-04-23,1950-01-16,F,English,BP,Abnormal,,NA,NA,126,69,1,0,1,NA,NA
+110,BHNC 515 Cortland Ave,2024-05-02,1951-05-31,F,Spanish,Cholesterol,Normal,196,NA,NA,NA,NA,NA,NA,NA,NA,NA
+110,BHNC 515 Cortland Ave,2024-05-02,1951-05-31,F,Spanish,Glucose,Normal,,121,0,NA,NA,NA,NA,NA,NA,NA
+110,BHNC 515 Cortland Ave,2024-05-02,1951-05-31,F,Spanish,BP,Abnormal,,NA,NA,152,80,1,1,1,1,NA
+45,BHNC 515 Cortland Ave,2024-05-02,1951-06-06,F,English,BP,Abnormal,,NA,NA,134,75,NA,NA,NA,NA,NA
+45,BHNC 515 Cortland Ave,2024-05-02,1951-06-06,F,English,Glucose,Normal,,122,0,NA,NA,NA,NA,NA,NA,NA
+45,BHNC 515 Cortland Ave,2024-05-02,1951-06-06,F,English,Cholesterol,Normal,171,NA,NA,NA,NA,1,NA,NA,NA,NA
+245,BHNC 515 Cortland Ave,2024-05-02,1931-10-10,,,BP,Abnormal,,NA,NA,132,80,NA,NA,NA,NA,NA
+245,BHNC 515 Cortland Ave,2024-05-02,1931-10-10,,,Glucose,Abnormal,,101,1,NA,NA,NA,NA,NA,NA,NA
+245,BHNC 515 Cortland Ave,2024-05-02,1931-10-10,,,Cholesterol,Normal,149,NA,NA,NA,NA,1,0,0,0,NA
+252,BHNC 515 Cortland Ave,2024-05-02,1952-09-25,M,English,BP,Abnormal,,NA,NA,156,84,NA,NA,NA,NA,NA
+252,BHNC 515 Cortland Ave,2024-05-02,1952-09-25,M,English,Glucose,Abnormal,,146,0,NA,NA,1,0,0,1,NA
+140,BHNC 515 Cortland Ave,2024-05-02,1941-01-22,,,BP,Abnormal,,NA,NA,161,85,NA,NA,NA,NA,NA
+140,BHNC 515 Cortland Ave,2024-05-02,1941-01-22,,,Glucose,Normal,,81,1,NA,NA,NA,NA,NA,NA,NA
+140,BHNC 515 Cortland Ave,2024-05-02,1941-01-22,,,Cholesterol,Normal,193,NA,NA,NA,NA,1,0,NA,NA,NA
+39,BHNC 515 Cortland Ave,2024-05-02,1938-01-24,F,English,BP,Abnormal,,NA,NA,128,64,NA,NA,NA,NA,NA
+58,BHNC 515 Cortland Ave,2024-05-02,NA,,,BP,Abnormal,,NA,NA,151,82,NA,NA,NA,NA,NA
+58,BHNC 515 Cortland Ave,2024-05-02,NA,,,Glucose,Normal,,132,0,NA,NA,NA,NA,NA,NA,NA
+58,BHNC 515 Cortland Ave,2024-05-02,NA,,,Cholesterol,Normal,190,NA,NA,NA,NA,1,NA,NA,NA,NA
+312,BHNC 515 Cortland Ave,2024-05-02,NA,,,Glucose,Abnormal,,189,0,NA,NA,NA,NA,NA,NA,NA
+312,BHNC 515 Cortland Ave,2024-05-02,NA,,,Cholesterol,Normal,174,NA,NA,NA,NA,1,NA,NA,NA,NA
+27,BHNC 515 Cortland Ave,2024-05-02,NA,,,BP,Normal,,NA,NA,108,73,NA,NA,NA,NA,NA
+27,BHNC 515 Cortland Ave,2024-05-02,NA,,,Glucose,Normal,,96,0,NA,NA,NA,NA,NA,NA,NA
+27,BHNC 515 Cortland Ave,2024-05-02,NA,,,Cholesterol,Abnormal,301,NA,NA,NA,NA,1,NA,NA,NA,NA
+293,BHNC 515 Cortland Ave,2024-05-02,1946-10-09,,,BP,Abnormal,,NA,NA,130,72,NA,NA,NA,NA,NA
+293,BHNC 515 Cortland Ave,2024-05-02,1946-10-09,,,Glucose,Abnormal,,181,0,NA,NA,NA,NA,NA,NA,NA
+293,BHNC 515 Cortland Ave,2024-05-02,1946-10-09,,,Cholesterol,Normal,160,NA,NA,NA,NA,1,NA,NA,NA,NA
+221,BHNC 515 Cortland Ave,2024-05-02,NA,,,Glucose,Normal,,74,0,NA,NA,NA,NA,NA,NA,NA
+221,BHNC 515 Cortland Ave,2024-05-02,NA,,,Cholesterol,Normal,164,NA,NA,NA,NA,1,NA,NA,NA,NA
+156,BHNC 515 Cortland Ave,2024-05-02,1935-09-23,F,English,Cholesterol,Normal,160,NA,NA,NA,NA,NA,NA,NA,NA,NA
+156,BHNC 515 Cortland Ave,2024-05-02,1935-09-23,F,English,Glucose,Normal,,123,0,NA,NA,NA,NA,NA,NA,NA
+156,BHNC 515 Cortland Ave,2024-05-02,1935-09-23,F,English,BP,Abnormal,,NA,NA,174,78,1,1,1,1,NA
+143,BHNC 515 Cortland Ave,2024-05-03,1977-06-24,M,Spanish,Glucose,Normal,,97,1,NA,NA,NA,NA,NA,NA,NA
+143,BHNC 515 Cortland Ave,2024-05-03,1977-06-24,M,Spanish,BP,Normal,,NA,NA,118,74,1,0,1,1,NA
+191,BHNC 515 Cortland Ave,2024-05-03,1942-03-28,F,Spanish,Cholesterol,Normal,173,NA,NA,NA,NA,NA,NA,NA,NA,NA
+191,BHNC 515 Cortland Ave,2024-05-03,1942-03-28,F,Spanish,Glucose,Normal,,106,0,NA,NA,NA,NA,NA,NA,NA
+191,BHNC 515 Cortland Ave,2024-05-03,1942-03-28,F,Spanish,BP,Normal,,NA,NA,107,66,1,NA,1,NA,NA
+11,MNC,2024-05-03,1941-08-11,M,Spanish,Cholesterol,Abnormal,258,NA,NA,NA,NA,NA,NA,NA,NA,NA
+11,MNC,2024-05-03,1941-08-11,M,Spanish,BP,Abnormal,,NA,NA,156,83,NA,NA,NA,NA,NA
+11,MNC,2024-05-03,1941-08-11,M,Spanish,Glucose,Abnormal,,101,1,NA,NA,1,1,1,1,NA
+106,MNC,2024-05-03,1969-06-20,M,English,Cholesterol,Normal,164,NA,NA,NA,NA,NA,NA,NA,NA,NA
+106,MNC,2024-05-03,1969-06-20,M,English,Glucose,Normal,,96,0,NA,NA,NA,NA,NA,NA,NA
+106,MNC,2024-05-03,1969-06-20,M,English,BP,Normal,,NA,NA,111,73,0,0,1,NA,NA
+276,MNC,2024-05-03,1971-08-05,F,English,Cholesterol,Normal,184,NA,NA,NA,NA,NA,NA,NA,NA,NA
+276,MNC,2024-05-03,1971-08-05,F,English,Glucose,Normal,,96,0,NA,NA,NA,NA,NA,NA,NA
+276,MNC,2024-05-03,1971-08-05,F,English,BP,Abnormal,,NA,NA,126,88,0,0,1,NA,NA
+102,MNC,2024-05-03,1934-09-21,M,Spanish,Cholesterol,Normal,157,NA,NA,NA,NA,NA,NA,NA,NA,NA
+102,MNC,2024-05-03,1934-09-21,M,Spanish,Glucose,Abnormal,,142,0,NA,NA,NA,NA,NA,NA,NA
+102,MNC,2024-05-03,1934-09-21,M,Spanish,BP,Abnormal,,NA,NA,131,74,1,1,1,1,NA
+260,MNC,2024-05-03,1938-12-18,F,Spanish,Cholesterol,Abnormal,,NA,NA,130,57,NA,NA,NA,NA,NA
+260,MNC,2024-05-03,1938-12-18,F,Spanish,Glucose,Normal,,105,0,NA,NA,NA,NA,NA,NA,NA
+260,MNC,2024-05-03,1938-12-18,F,Spanish,BP,Abnormal,227,NA,NA,NA,NA,1,1,1,NA,NA
+6,MNC,2024-05-03,1947-02-07,F,Spanish,Cholesterol,Abnormal,208,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6,MNC,2024-05-03,1947-02-07,F,Spanish,Glucose,Normal,,102,0,NA,NA,NA,NA,NA,NA,NA
+6,MNC,2024-05-03,1947-02-07,F,Spanish,BP,Abnormal,,NA,NA,132,70,1,1,1,1,NA
+20,MNC,2024-05-03,1952-02-15,,,Cholesterol,Normal,162,NA,NA,NA,NA,NA,NA,NA,NA,NA
+20,MNC,2024-05-03,1952-02-15,,,Glucose,Normal,,93,1,NA,NA,NA,NA,NA,NA,NA
+20,MNC,2024-05-03,1952-02-15,,,BP,Abnormal,,NA,NA,128,71,1,1,1,1,NA
+190,MNC,2024-05-03,1934-05-15,,,BP,Abnormal,,NA,NA,138,80,NA,NA,NA,NA,NA
+190,MNC,2024-05-03,1934-05-15,,,Glucose,Abnormal,,189,0,NA,NA,NA,NA,NA,NA,NA
+190,MNC,2024-05-03,1934-05-15,,,Cholesterol,Normal,196,NA,NA,NA,NA,1,1,1,1,NA
+262,MNC,2024-05-03,1942-08-06,F,Spanish,Cholesterol,Abnormal,203,NA,NA,NA,NA,NA,NA,NA,NA,NA
+262,MNC,2024-05-03,1942-08-06,F,Spanish,Glucose,Normal,,114,0,NA,NA,NA,NA,NA,NA,NA
+262,MNC,2024-05-03,1942-08-06,F,Spanish,BP,Abnormal,,NA,NA,141,68,1,NA,1,NA,NA
+273,MNC,2024-05-03,1963-09-25,,,Cholesterol,Normal,155,NA,NA,NA,NA,NA,NA,NA,NA,NA
+273,MNC,2024-05-03,1963-09-25,,,Glucose,Abnormal,,170,0,NA,NA,NA,NA,NA,NA,NA
+273,MNC,2024-05-03,1963-09-25,,,BP,Abnormal,,NA,NA,102,88,1,1,1,1,NA
+42,MNC,2024-05-03,1947-07-10,F,Spanish,Cholesterol,Normal,149,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42,MNC,2024-05-03,1947-07-10,F,Spanish,Glucose,Normal,,136,0,NA,NA,NA,NA,NA,NA,NA
+42,MNC,2024-05-03,1947-07-10,F,Spanish,BP,Normal,,NA,NA,113,69,1,0,0,1,NA
+256,MNC,2024-05-03,1940-01-20,M,Spanish,Cholesterol,Abnormal,210,NA,NA,NA,NA,NA,NA,NA,NA,NA
+256,MNC,2024-05-03,1940-01-20,M,Spanish,Glucose,Normal,,118,0,NA,NA,NA,NA,NA,NA,NA
+256,MNC,2024-05-03,1940-01-20,M,Spanish,BP,Abnormal,,NA,NA,156,74,1,0,0,0,NA
+166,MNC,2024-05-03,1940-01-02,F,English,Cholesterol,Normal,158,NA,NA,NA,NA,NA,NA,NA,NA,NA
+166,MNC,2024-05-03,1940-01-02,F,English,Glucose,Normal,,87,1,NA,NA,NA,NA,NA,NA,NA
+166,MNC,2024-05-03,1940-01-02,F,English,BP,Abnormal,,NA,NA,157,69,1,1,1,1,NA
+314,MNC,2024-05-03,1949-02-27,M,English,Glucose,Abnormal,,113,1,NA,NA,NA,NA,NA,NA,NA
+314,MNC,2024-05-03,1949-02-27,M,English,BP,Abnormal,,NA,NA,131,79,1,0,0,0,NA
+13,MNC,2024-05-03,1959-06-23,,,Glucose,Abnormal,,336,0,NA,NA,1,1,0,1,NA
+169,"BHNC  Coleridge Park Homes , 190 Coleridge St.",2024-05-06,2028-04-03,F,English,BP,Abnormal,,NA,NA,143,84,NA,NA,NA,NA,NA
+169,"BHNC  Coleridge Park Homes , 190 Coleridge St.",2024-05-06,2028-04-03,F,English,Glucose,Normal,,93,0,NA,NA,NA,NA,NA,NA,NA
+169,"BHNC  Coleridge Park Homes , 190 Coleridge St.",2024-05-06,2028-04-03,F,English,Cholesterol,Abnormal,209,NA,NA,NA,NA,1,NA,NA,NA,NA
+311,"BHNC  Coleridge Park Homes , 190 Coleridge St.",2024-05-06,1952-06-26,M,English,BP,Abnormal,,NA,NA,123,79,NA,NA,NA,NA,NA
+311,"BHNC  Coleridge Park Homes , 190 Coleridge St.",2024-05-06,1952-06-26,M,English,Glucose,Normal,,99,0,NA,NA,NA,NA,NA,NA,NA
+311,"BHNC  Coleridge Park Homes , 190 Coleridge St.",2024-05-06,1952-06-26,M,English,Cholesterol,Normal,149,NA,NA,NA,NA,1,NA,NA,NA,NA
+89,"BHNC  Coleridge Park Homes , 190 Coleridge St.",2024-05-06,1939-10-17,F,English,BP,Abnormal,,NA,NA,127,86,NA,NA,NA,NA,NA
+89,"BHNC  Coleridge Park Homes , 190 Coleridge St.",2024-05-06,1939-10-17,F,English,Glucose,Abnormal,,148,1,NA,NA,1,NA,NA,NA,NA
+88,"BHNC  Coleridge Park Homes , 190 Coleridge St.",2024-05-06,1946-02-04,F,English,BP,Abnormal,,NA,NA,127,71,NA,NA,NA,NA,NA
+88,"BHNC  Coleridge Park Homes , 190 Coleridge St.",2024-05-06,1946-02-04,F,English,Glucose,Abnormal,,145,0,NA,NA,NA,NA,NA,NA,NA
+88,"BHNC  Coleridge Park Homes , 190 Coleridge St.",2024-05-06,1946-02-04,F,English,Cholesterol,Abnormal,279,NA,NA,NA,NA,1,NA,NA,NA,NA
+195,"BHNC  Coleridge Park Homes , 190 Coleridge St.",2024-05-06,1930-03-18,F,English,BP,Abnormal,,NA,NA,125,67,NA,NA,NA,NA,NA
+195,"BHNC  Coleridge Park Homes , 190 Coleridge St.",2024-05-06,1930-03-18,F,English,Glucose,Normal,,103,0,NA,NA,NA,NA,NA,NA,NA
+195,"BHNC  Coleridge Park Homes , 190 Coleridge St.",2024-05-06,1930-03-18,F,English,Cholesterol,Normal,149,NA,NA,NA,NA,1,0,1,1,NA
+295,"BHNC  Coleridge Park Homes , 190 Coleridge St.",2024-05-06,1969-11-17,F,English,BP,Abnormal,,NA,NA,162,106,NA,NA,NA,NA,NA
+295,"BHNC  Coleridge Park Homes , 190 Coleridge St.",2024-05-06,1969-11-17,F,English,Glucose,Normal,,102,0,NA,NA,NA,NA,NA,NA,NA
+295,"BHNC  Coleridge Park Homes , 190 Coleridge St.",2024-05-06,1969-11-17,F,English,Cholesterol,Abnormal,281,NA,NA,NA,NA,NA,NA,NA,NA,NA
+297,"BHNC  Coleridge Park Homes , 190 Coleridge St.",2024-05-06,1990-11-26,F,English,BP,Abnormal,,NA,NA,136,83,NA,NA,NA,NA,NA
+297,"BHNC  Coleridge Park Homes , 190 Coleridge St.",2024-05-06,1990-11-26,F,English,Glucose,Normal,,95,0,NA,NA,NA,NA,NA,NA,NA
+297,"BHNC  Coleridge Park Homes , 190 Coleridge St.",2024-05-06,1990-11-26,F,English,Cholesterol,Abnormal,203,NA,NA,NA,NA,0,1,1,1,NA
+82,Bernal Heights Neighborhood Center ,2024-05-06,1931-10-10,M,English,Cholesterol,Normal,149,NA,NA,NA,NA,NA,NA,NA,NA,NA
+82,Bernal Heights Neighborhood Center ,2024-05-06,1931-10-10,M,English,Glucose,Abnormal,,101,1,NA,NA,NA,NA,NA,NA,NA
+82,Bernal Heights Neighborhood Center ,2024-05-06,1931-10-10,M,English,BP,Abnormal,,NA,NA,132,80,NA,NA,NA,NA,NA
+321,"BHNC St. Peter's Place, 420 29th Ave",2024-05-09,1959-06-26,F,English,Cholesterol,Normal,195,NA,NA,NA,NA,1,NA,NA,NA,NA
+81,"BHNC St. Peter's Place, 420 29th Ave",2024-05-09,1951-10-23,M,English,Cholesterol,Normal,150,NA,NA,NA,NA,NA,NA,NA,NA,NA
+81,"BHNC St. Peter's Place, 420 29th Ave",2024-05-09,1951-10-23,M,English,Glucose,Normal,,130,0,NA,NA,NA,NA,NA,NA,NA
+81,"BHNC St. Peter's Place, 420 29th Ave",2024-05-09,1951-10-23,M,English,BP,Abnormal,,NA,NA,131,91,1,1,NA,NA,NA
+10,"BHNC St. Peter's Place, 420 29th Ave",2024-05-09,1988-10-04,F,English,Cholesterol,Normal,149,NA,NA,NA,NA,NA,NA,NA,NA,NA
+10,"BHNC St. Peter's Place, 420 29th Ave",2024-05-09,1988-10-04,F,English,Glucose,Abnormal,,106,1,NA,NA,NA,NA,NA,NA,NA
+10,"BHNC St. Peter's Place, 420 29th Ave",2024-05-09,1988-10-04,F,English,BP,Abnormal,,NA,NA,144,80,1,NA,NA,NA,NA
+151,"BHNC St. Peter's Place, 420 29th Ave",2024-05-10,1959-12-02,F,English,Cholesterol,Abnormal,236,NA,NA,NA,NA,NA,NA,NA,NA,NA
+151,"BHNC St. Peter's Place, 420 29th Ave",2024-05-10,1959-12-02,F,English,Glucose,Abnormal,,147,0,NA,NA,NA,NA,NA,NA,NA
+151,"BHNC St. Peter's Place, 420 29th Ave",2024-05-10,1959-12-02,F,English,BP,Abnormal,,NA,NA,141,74,1,NA,NA,NA,NA
+59,"BHNC St. Peter's Place, 420 29th Ave",2024-05-10,1977-06-14,F,English,BP,Abnormal,,NA,NA,171,97,NA,NA,NA,NA,NA
+251,"BHNC St. Peter's Place, 420 29th Ave",2024-05-10,1956-03-02,F,English,Cholesterol,Abnormal,247,NA,NA,NA,NA,NA,NA,NA,NA,NA
+251,"BHNC St. Peter's Place, 420 29th Ave",2024-05-10,1956-03-02,F,English,BP,Abnormal,,NA,NA,158,79,1,NA,NA,NA,NA
+255,"BHNC St. Peter's Place, 420 29th Ave",2024-05-10,1948-06-21,M,English,Cholesterol,Normal,178,NA,NA,NA,NA,NA,NA,NA,NA,NA
+255,"BHNC St. Peter's Place, 420 29th Ave",2024-05-10,1948-06-21,M,English,BP,Abnormal,,NA,NA,136,83,NA,NA,NA,NA,NA
+233,"BHNC St. Peter's Place, 420 29th Ave",2024-05-10,1967-04-20,F,English,Cholesterol,Abnormal,245,NA,NA,NA,NA,NA,NA,NA,NA,NA
+233,"BHNC St. Peter's Place, 420 29th Ave",2024-05-10,1967-04-20,F,English,Glucose,Normal,,113,0,NA,NA,NA,NA,NA,NA,NA
+233,"BHNC St. Peter's Place, 420 29th Ave",2024-05-10,1967-04-20,F,English,BP,Abnormal,,NA,NA,132,103,1,NA,NA,NA,NA
+79,"BHNC St. Peter's Place, 420 29th Ave",2024-05-10,1960-01-20,F,English,Cholesterol,Normal,158,NA,NA,NA,NA,NA,NA,NA,NA,NA
+79,"BHNC St. Peter's Place, 420 29th Ave",2024-05-10,1960-01-20,F,English,Glucose,Abnormal,,171,0,NA,NA,NA,NA,NA,NA,NA
+79,"BHNC St. Peter's Place, 420 29th Ave",2024-05-10,1960-01-20,F,English,BP,Abnormal,,NA,NA,151,83,1,NA,NA,NA,NA
+325,Chinatown YMCA,2024-05-08,1941-06-22,M,Chinese,Cholesterol,Normal,192,NA,NA,NA,NA,NA,NA,NA,NA,NA
+325,Chinatown YMCA,2024-05-08,1941-06-22,M,Chinese,Glucose,Normal,,118,0,NA,NA,NA,NA,NA,NA,NA
+325,Chinatown YMCA,2024-05-08,1941-06-22,M,Chinese,BP,Normal,,NA,NA,114,72,1,NA,NA,NA,NA
+206,Chinatown YMCA,2024-05-08,1945-09-26,F,Chinese,Cholesterol,Normal,180,NA,NA,NA,NA,NA,NA,NA,NA,NA
+206,Chinatown YMCA,2024-05-08,1945-09-26,F,Chinese,Glucose,Normal,,91,0,NA,NA,NA,NA,NA,NA,NA
+206,Chinatown YMCA,2024-05-08,1945-09-26,F,Chinese,BP,Abnormal,,NA,NA,131,80,1,NA,NA,NA,NA
+112,Chinatown YMCA,2024-05-15,NA,F,English,Glucose,Normal,,93,1,NA,NA,NA,NA,NA,NA,NA
+112,Chinatown YMCA,2024-05-15,NA,F,English,Cholesterol,Abnormal,268,NA,NA,NA,NA,NA,NA,NA,NA,NA
+127,Chinatown YMCA,2024-05-15,1947-09-10,F,Chinese,Glucose,Normal,,103,0,NA,NA,NA,NA,NA,NA,NA
+127,Chinatown YMCA,2024-05-15,1947-09-10,F,Chinese,BP,Abnormal,,NA,NA,129,68,0,NA,NA,NA,NA
+304,Chinatown YMCA,2024-05-15,1964-06-26,M,English,BP,Abnormal,,NA,NA,129,86,1,0,0,0,NA
+304,Chinatown YMCA,2024-05-15,1964-06-26,M,English,Glucose,Normal,,96,0,NA,NA,NA,NA,NA,NA,NA
+283,Chinatown YMCA,2024-05-15,1968-04-16,F,English,Cholesterol,Abnormal,244,NA,NA,NA,NA,NA,NA,NA,NA,NA
+283,Chinatown YMCA,2024-05-15,1968-04-16,F,English,Glucose,Normal,,95,0,NA,NA,NA,NA,NA,NA,NA
+283,Chinatown YMCA,2024-05-15,1968-04-16,F,English,BP,Normal,,NA,NA,106,78,0,NA,NA,NA,NA
+210,Chinatown YMCA,2024-05-15,1952-10-10,F,Chinese,Cholesterol,Normal,198,NA,NA,NA,NA,NA,NA,NA,NA,NA
+210,Chinatown YMCA,2024-05-15,1952-10-10,F,Chinese,Glucose,Normal,,111,0,NA,NA,NA,NA,NA,NA,NA
+210,Chinatown YMCA,2024-05-15,1952-10-10,F,Chinese,BP,Abnormal,,NA,NA,130,77,NA,NA,NA,NA,NA
+71,Chinatown YMCA,2024-05-15,1957-04-09,F,English,Glucose,Normal,,96,0,NA,NA,1,0,1,NA,NA
+211,Chinatown YMCA,2024-05-15,1954-09-21,F,Chinese,Glucose,Normal,,90,0,NA,NA,NA,NA,NA,NA,NA
+211,Chinatown YMCA,2024-05-15,1954-09-21,F,Chinese,BP,Normal,,NA,NA,116,77,1,1,NA,NA,NA
+323,Chinatown YMCA,2024-05-15,1975-02-26,F,Chinese,Cholesterol,Abnormal,235,NA,NA,NA,NA,NA,NA,NA,NA,NA
+323,Chinatown YMCA,2024-05-15,1975-02-26,F,Chinese,Glucose,Normal,,91,0,NA,NA,NA,NA,NA,NA,NA
+289,Chinatown YMCA,2024-05-15,1954-03-03,,,,Normal,,NA,NA,NA,NA,NA,NA,NA,NA,NA
+281,Women's Building,2024-05-24,1953-11-08,F,Spanish,Cholesterol,Normal,195,NA,NA,NA,NA,NA,NA,NA,NA,NA
+281,Women's Building,2024-05-24,1953-11-08,F,Spanish,BP,Abnormal,,NA,NA,156,77,1,1,1,1,NA
+5,Women's Building,2024-05-24,1993-11-07,F,Spanish,Cholesterol,Normal,178,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5,Women's Building,2024-05-24,1993-11-07,F,Spanish,Glucose,Abnormal,,198,0,NA,NA,NA,NA,NA,NA,NA
+5,Women's Building,2024-05-24,1993-11-07,F,Spanish,BP,Normal,,NA,NA,101,67,0,NA,NA,NA,NA
+47,Women's Building,2024-05-24,NA,,,Cholesterol,Normal,189,NA,NA,NA,NA,NA,NA,NA,NA,NA
+47,Women's Building,2024-05-24,NA,,,Glucose,Normal,,86,0,NA,NA,NA,NA,NA,NA,NA
+47,Women's Building,2024-05-24,NA,,,BP,Normal,,NA,NA,96,63,0,1,0,1,NA
+48,Women's Building,2024-05-24,NA,F,Spanish,Cholesterol,Normal,189,NA,NA,NA,NA,NA,NA,NA,NA,NA
+177,Women's Building,2024-05-24,1959-11-26,F,Spanish,Cholesterol,Abnormal,222,NA,NA,NA,NA,NA,NA,NA,NA,NA
+177,Women's Building,2024-05-24,1959-11-26,F,Spanish,Glucose,Normal,,123,0,NA,NA,NA,NA,NA,NA,NA
+177,Women's Building,2024-05-24,1959-11-26,F,Spanish,BP,Normal,,NA,NA,110,71,1,NA,NA,NA,NA
+340,Women's Building,2024-05-24,NA,F,Spanish,Cholesterol,Abnormal,254,NA,NA,NA,NA,NA,NA,NA,NA,NA
+340,Women's Building,2024-05-24,NA,F,Spanish,Glucose,Normal,,103,0,NA,NA,NA,NA,NA,NA,NA
+340,Women's Building,2024-05-24,NA,F,Spanish,BP,Abnormal,,NA,NA,138,85,1,NA,NA,NA,NA
+84,Women's Building,2024-05-24,1978-07-04,F,Spanish,Cholesterol,Abnormal,215,NA,NA,NA,NA,NA,NA,NA,NA,NA
+84,Women's Building,2024-05-24,1978-07-04,F,Spanish,Glucose,Abnormal,,310,0,NA,NA,NA,NA,NA,NA,NA
+84,Women's Building,2024-05-24,1978-07-04,F,Spanish,BP,Normal,,NA,NA,115,72,1,NA,NA,NA,NA
+104,Women's Building,2024-05-24,1971-10-10,F,Spanish,Cholesterol,Abnormal,208,NA,NA,NA,NA,NA,NA,NA,NA,NA
+104,Women's Building,2024-05-24,1971-10-10,F,Spanish,Glucose,Normal,,105,0,NA,NA,NA,NA,NA,NA,NA
+105,Women's Building,2024-05-24,1971-10-11,F,Spanish,BP,Abnormal,,NA,NA,127,74,1,1,1,NA,NA
+258,Women's Building,2024-05-24,1978-10-16,F,Spanish,Cholesterol,Abnormal,301,NA,NA,NA,NA,NA,NA,NA,NA,NA
+258,Women's Building,2024-05-24,1978-10-16,F,Spanish,Glucose,Abnormal,,495,0,NA,NA,NA,NA,NA,NA,NA
+258,Women's Building,2024-05-24,1978-10-16,F,Spanish,BP,Abnormal,,NA,NA,171,110,NA,NA,NA,NA,NA
+277,Women's Building,2024-05-24,1986-12-25,F,Spanish,Cholesterol,Abnormal,220,NA,NA,NA,NA,NA,NA,NA,NA,NA
+277,Women's Building,2024-05-24,1986-12-25,F,Spanish,Glucose,Abnormal,,278,0,NA,NA,NA,NA,NA,NA,NA
+277,Women's Building,2024-05-24,1986-12-25,F,Spanish,BP,Normal,,NA,0,108,76,0,NA,NA,NA,NA
+14,Women's Building,2024-05-24,1986-01-31,F,English,Cholesterol,Normal,162,NA,NA,NA,NA,NA,NA,NA,NA,NA
+14,Women's Building,2024-05-24,1986-01-31,F,English,Glucose,Normal,,88,0,NA,NA,NA,NA,NA,NA,NA
+14,Women's Building,2024-05-24,1986-01-31,F,English,BP,Abnormal,,NA,NA,138,93,NA,NA,NA,NA,NA
+298,Women's Building,2024-05-24,NA,,,BP,Normal,,NA,NA,95,80,NA,NA,NA,NA,NA
+298,Women's Building,2024-05-24,NA,,,Glucose,Normal,,98,0,NA,NA,NA,NA,NA,NA,NA
+298,Women's Building,2024-05-24,NA,,,Cholesterol,Abnormal,217,NA,NA,NA,NA,NA,NA,NA,NA,NA
+235,Women's Building,2024-05-24,NA,,,BP,Abnormal,,NA,NA,122,78,1,NA,NA,NA,NA
+235,Women's Building,2024-05-24,NA,,,Cholesterol,Normal,149,NA,NA,NA,NA,NA,NA,NA,NA,NA
+132,Women's Building,2024-05-24,NA,,,BP,Normal,,NA,NA,100,63,NA,NA,NA,NA,NA
+132,Women's Building,2024-05-24,NA,,,Glucose,Normal,,103,0,NA,NA,NA,NA,NA,NA,NA
+132,Women's Building,2024-05-24,NA,,,Cholesterol,Normal,150,NA,NA,NA,NA,1,NA,NA,NA,NA
+266,Women's Building,2024-05-24,1983-10-29,M,Spanish,Cholesterol,Normal,181,NA,NA,NA,NA,NA,NA,NA,NA,NA
+266,Women's Building,2024-05-24,1983-10-29,M,Spanish,Glucose,Normal,,94,0,NA,NA,NA,NA,NA,NA,NA
+266,Women's Building,2024-05-24,1983-10-29,M,Spanish,BP,Abnormal,,NA,NA,114,84,1,NA,NA,NA,NA
+152,Women's Building,2024-05-24,1998-02-26,F,Spanish,Cholesterol,Normal,149,NA,NA,NA,NA,NA,NA,NA,NA,NA
+152,Women's Building,2024-05-24,1998-02-26,F,Spanish,Glucose,Normal,,84,0,NA,NA,NA,NA,NA,NA,NA
+152,Women's Building,2024-05-24,1998-02-26,F,Spanish,BP,Normal,,NA,NA,89,70,0,1,NA,NA,NA
+301,Women's Building,2024-05-24,1960-07-26,F,Spanish,Cholesterol,Normal,153,NA,NA,NA,NA,NA,NA,NA,NA,NA
+301,Women's Building,2024-05-24,1960-07-26,F,Spanish,BP,Abnormal,,NA,NA,141,96,NA,1,0,1,NA
+187,Women's Building,2024-05-24,1993-12-13,,Spanish,Cholesterol,Abnormal,227,NA,NA,NA,NA,NA,NA,NA,NA,NA
+187,Women's Building,2024-05-24,1993-12-13,,Spanish,Glucose,Normal,,117,0,NA,NA,NA,NA,NA,NA,NA
+187,Women's Building,2024-05-24,1993-12-13,,Spanish,BP,Normal,,NA,NA,112,79,0,NA,NA,NA,NA
+274,Women's Building,2024-05-24,1964-12-31,F,Spanish,Cholesterol,Normal,196,NA,NA,NA,NA,NA,NA,NA,NA,NA
+274,Women's Building,2024-05-24,1964-12-31,F,Spanish,Glucose,Normal,,106,0,NA,NA,NA,NA,NA,NA,NA
+274,Women's Building,2024-05-24,1964-12-31,F,Spanish,BP,Normal,,NA,NA,96,76,NA,NA,NA,NA,NA
+161,Women's Building,2024-05-24,NA,,,,Normal,,91,0,NA,NA,NA,NA,NA,NA,NA
+161,Women's Building,2024-05-24,NA,,,,Abnormal,203,NA,NA,NA,NA,1,0,0,1,NA
+193,Women's Building,2024-05-24,1971-05-26,F,Spanish,Cholesterol,Abnormal,217,NA,NA,NA,NA,NA,NA,NA,NA,NA
+193,Women's Building,2024-05-24,1971-05-26,F,Spanish,Glucose,Abnormal,,141,0,NA,NA,NA,NA,NA,NA,NA
+193,Women's Building,2024-05-24,1971-05-26,F,Spanish,BP,Abnormal,,NA,NA,128,91,1,0,0,1,NA
+21,Women's Building,2024-05-24,NA,F,Spanish,Cholesterol,Abnormal,214,NA,NA,NA,NA,NA,NA,NA,NA,NA
+21,Women's Building,2024-05-24,NA,F,Spanish,Glucose,Abnormal,,177,0,NA,NA,NA,NA,NA,NA,NA
+21,Women's Building,2024-05-24,NA,F,Spanish,BP,Abnormal,,NA,NA,138,94,NA,NA,NA,NA,NA
+239,Women's Building,2024-05-24,1975-09-01,F,Spanish,Cholesterol,Normal,153,NA,NA,NA,NA,NA,NA,NA,NA,NA
+239,Women's Building,2024-05-24,1975-09-01,F,Spanish,Glucose,Normal,,118,0,NA,NA,NA,NA,NA,NA,NA
+239,Women's Building,2024-05-24,1975-09-01,F,Spanish,BP,Normal,,NA,NA,114,74,1,NA,NA,NA,NA
+299,Women's Building,2024-05-24,1958-08-27,F,Spanish,Cholesterol,Normal,178,NA,NA,NA,NA,NA,NA,NA,NA,NA
+299,Women's Building,2024-05-24,1958-08-27,F,Spanish,Glucose,Normal,,46,0,NA,NA,NA,NA,NA,NA,NA
+299,Women's Building,2024-05-24,1958-08-27,F,Spanish,BP,Abnormal,,NA,NA,134,90,1,1,1,1,NA
+40,Women's Building,2024-05-24,NA,F,English,Cholesterol,Normal,178,NA,NA,NA,NA,NA,NA,NA,NA,NA
+40,Women's Building,2024-05-24,NA,F,English,Glucose,Normal,,127,0,NA,NA,NA,NA,NA,NA,NA
+40,Women's Building,2024-05-24,NA,F,English,BP,Normal,,NA,NA,94,58,1,NA,NA,NA,NA
+329,Women's Building,2024-05-24,1988-06-20,F,Spanish,Glucose,Normal,,113,0,NA,NA,NA,NA,NA,NA,NA
+329,Women's Building,2024-05-24,1988-06-20,F,Spanish,Cholesterol,Abnormal,287,NA,NA,NA,NA,0,1,NA,NA,NA
+110,Women's Building,2024-05-24,1951-05-31,F,Spanish,Cholesterol,Normal,146,NA,NA,NA,NA,NA,NA,NA,NA,NA
+110,Women's Building,2024-05-24,1951-05-31,F,Spanish,Glucose,Normal,,121,0,NA,NA,NA,NA,NA,NA,NA
+110,Women's Building,2024-05-24,1951-05-31,F,Spanish,BP,Abnormal,,NA,NA,152,80,1,NA,NA,NA,NA
+76,Chinatown YMCA,2024-05-15,1962-05-12,M,English,Cholesterol,Abnormal,282,NA,NA,NA,NA,NA,NA,NA,NA,NA
+76,Chinatown YMCA,2024-05-15,1962-05-12,M,English,Glucose,Normal,,135,0,NA,NA,NA,NA,NA,NA,NA
+76,Chinatown YMCA,2024-05-15,1962-05-12,M,English,BP,Abnormal,,NA,NA,139,86,1,0,0,1,NA
+282,Chinatown YMCA,2024-05-15,1949-08-01,M,Chinese,Cholesterol,Normal,173,NA,NA,NA,NA,NA,NA,NA,NA,NA
+282,Chinatown YMCA,2024-05-15,1949-08-01,M,Chinese,Glucose,Abnormal,,117,1,NA,NA,NA,NA,NA,NA,NA
+282,Chinatown YMCA,2024-05-15,1949-08-01,M,Chinese,BP,Abnormal,,NA,NA,121,72,NA,NA,NA,NA,NA
+328,Chinatown YMCA,2024-05-15,1955-11-10,F,Chinese,Cholesterol,Normal,194,NA,NA,NA,NA,NA,NA,NA,NA,NA
+328,Chinatown YMCA,2024-05-15,1955-11-10,F,Chinese,Glucose,Normal,,98,0,NA,NA,NA,NA,NA,NA,NA
+328,Chinatown YMCA,2024-05-15,1955-11-10,F,Chinese,BP,Normal,,NA,NA,115,79,NA,NA,NA,NA,NA
+31,Chinatown YMCA,2024-05-15,1958-12-13,,Chinese,Cholesterol,Normal,149,NA,NA,NA,NA,NA,NA,NA,NA,NA
+31,Chinatown YMCA,2024-05-15,1958-12-13,,Chinese,Glucose,Normal,,116,0,NA,NA,NA,NA,NA,NA,NA
+31,Chinatown YMCA,2024-05-15,1958-12-13,,Chinese,BP,Normal,,NA,NA,120,67,NA,NA,NA,NA,NA
+328,Chinatown YMCA,2024-05-15,1955-11-10,F,Chinese,Cholesterol,Normal,194,NA,NA,NA,NA,NA,NA,NA,NA,NA
+328,Chinatown YMCA,2024-05-15,1955-11-10,F,Chinese,Glucose,Normal,,98,0,NA,NA,NA,NA,NA,NA,NA
+328,Chinatown YMCA,2024-05-15,1955-11-10,F,Chinese,BP,Normal,,NA,NA,115,79,NA,NA,NA,NA,NA
+138,Chinatown YMCA,2024-05-15,1953-06-18,M,English,Cholesterol,Normal,175,NA,NA,NA,NA,NA,NA,NA,NA,NA
+138,Chinatown YMCA,2024-05-15,1953-06-18,M,English,Glucose,Normal,,85,0,NA,NA,NA,NA,NA,NA,NA
+138,Chinatown YMCA,2024-05-15,1953-06-18,M,English,BP,Abnormal,,NA,NA,121,72,1,1,1,NA,NA
+146,MNC,2024-06-14,1954-10-05,F,Chinese,Cholesterol,Abnormal,215,NA,NA,NA,NA,NA,NA,NA,NA,NA
+146,MNC,2024-06-14,1954-10-05,F,Chinese,Glucose,Abnormal,,144,0,NA,NA,NA,NA,NA,NA,NA
+146,MNC,2024-06-14,1954-10-05,F,Chinese,BP,Normal,,NA,NA,99,58,NA,NA,NA,NA,NA
+191,MNC,2024-06-14,1942-03-28,F,Spanish,Cholesterol,Normal,184,NA,NA,NA,NA,NA,NA,NA,NA,NA
+191,MNC,2024-06-14,1942-03-28,F,Spanish,Glucose,Normal,,111,0,NA,NA,NA,NA,NA,NA,NA
+191,MNC,2024-06-14,1942-03-28,F,Spanish,BP,Normal,,NA,NA,110,73,1,0,1,NA,NA
+155,MNC,2024-06-14,1954-12-17,F,English,Cholesterol,Abnormal,234,NA,NA,NA,NA,NA,NA,NA,NA,NA
+155,MNC,2024-06-14,1954-12-17,F,English,Glucose,Normal,,91,0,NA,NA,1,1,1,1,NA
+176,MNC,2024-06-14,1949-11-24,F,Spanish,Cholesterol,Abnormal,210,NA,NA,NA,NA,NA,NA,NA,NA,NA
+176,MNC,2024-06-14,1949-11-24,F,Spanish,Glucose,Normal,,110,0,NA,NA,NA,NA,NA,NA,NA
+176,MNC,2024-06-14,1949-11-24,F,Spanish,BP,Normal,,NA,NA,113,58,1,0,1,NA,NA
+34,MNC,2024-06-14,1948-03-05,M,English,Cholesterol,,149,NA,NA,NA,NA,NA,NA,NA,NA,NA
+34,MNC,2024-06-14,1948-03-05,M,English,Glucose,Normal,,121,0,NA,NA,NA,NA,NA,NA,NA
+34,MNC,2024-06-14,1948-03-05,M,English,BP,Normal,,NA,NA,117,76,1,NA,NA,NA,NA
+199,MNC,2024-06-14,1959-12-23,F,Spanish,Cholesterol,Abnormal,202,NA,NA,NA,NA,NA,NA,NA,NA,NA
+199,MNC,2024-06-14,1959-12-23,F,Spanish,Glucose,Abnormal,,180,0,NA,NA,NA,NA,NA,NA,NA
+199,MNC,2024-06-14,1959-12-23,F,Spanish,BP,Normal,,NA,NA,106,61,1,1,1,NA,NA
+262,MNC,2024-06-14,1942-08-06,F,Spanish,Cholesterol,Abnormal,205,NA,NA,NA,NA,NA,NA,NA,NA,NA
+262,MNC,2024-06-14,1942-08-06,F,Spanish,Glucose,Normal,,111,0,NA,NA,NA,NA,NA,NA,NA
+262,MNC,2024-06-14,1942-08-06,F,Spanish,BP,Abnormal,,NA,NA,129,65,1,1,1,NA,NA
+20,MNC,2024-06-14,1952-02-15,,Spanish,Cholesterol,Normal,172,NA,NA,NA,NA,NA,NA,NA,NA,NA
+20,MNC,2024-06-14,1952-02-15,,Spanish,Glucose,Normal,,89,1,NA,NA,NA,NA,NA,NA,NA
+20,MNC,2024-06-14,1952-02-15,,Spanish,BP,Normal,,NA,NA,108,63,1,0,1,1,NA
+107,MNC,2024-06-14,1954-10-24,F,Spanish,Cholesterol,Normal,167,NA,NA,NA,NA,NA,NA,NA,NA,NA
+107,MNC,2024-06-14,1954-10-24,F,Spanish,Glucose,Normal,,102,0,NA,NA,NA,NA,NA,NA,NA
+107,MNC,2024-06-14,1954-10-24,F,Spanish,BP,Abnormal,,NA,NA,130,86,1,0,0,0,NA
+314,MNC,2024-06-14,1949-02-27,M,English,Cholesterol,Normal,149,NA,NA,NA,NA,NA,NA,NA,NA,NA
+314,MNC,2024-06-14,1949-02-27,M,English,Glucose,Normal,,86,1,NA,NA,NA,NA,NA,NA,NA
+314,MNC,2024-06-14,1949-02-27,M,English,BP,Abnormal,,NA,NA,124,71,1,0,0,0,NA
+8,MNC,2024-06-14,1947-02-07,F,Spanish,Cholesterol,Normal,167,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8,MNC,2024-06-14,1947-02-07,F,Spanish,Glucose,Normal,,89,0,NA,NA,NA,NA,NA,NA,NA
+8,MNC,2024-06-14,1947-02-07,F,Spanish,BP,Abnormal,,NA,NA,159,74,1,1,1,1,NA
+3,MNC,2024-06-14,1940-01-02,F,English,Cholesterol,Normal,175,NA,NA,NA,NA,NA,NA,NA,NA,NA
+3,MNC,2024-06-14,1940-01-02,F,English,Glucose,Normal,,99,0,NA,NA,NA,NA,NA,NA,NA
+3,MNC,2024-06-14,1940-01-02,F,English,BP,Abnormal,,NA,NA,130,71,1,1,1,1,NA
+42,MNC,2024-06-14,1947-07-10,F,Spanish,Cholesterol,Normal,149,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42,MNC,2024-06-14,1947-07-10,F,Spanish,Glucose,Normal,,129,0,NA,NA,NA,NA,NA,NA,NA
+42,MNC,2024-06-14,1947-07-10,F,Spanish,BP,Normal,,NA,NA,116,64,1,1,1,1,NA
+19,MNC,2024-06-14,NA,,,Cholesterol,Normal,186,NA,NA,NA,NA,NA,NA,NA,NA,NA
+19,MNC,2024-06-14,NA,,,Glucose,Abnormal,,126,1,NA,NA,NA,NA,NA,NA,NA
+19,MNC,2024-06-14,NA,,,BP,Abnormal,,NA,NA,152,72,1,NA,NA,NA,NA
+273,MNC,2024-06-14,1963-09-25,F,Spanish,Cholesterol,Normal,158,NA,NA,NA,NA,NA,NA,NA,NA,NA
+273,MNC,2024-06-14,1963-09-25,F,Spanish,Glucose,Abnormal,,178,0,NA,NA,NA,NA,NA,NA,NA
+273,MNC,2024-06-14,1963-09-25,F,Spanish,BP,Normal,,NA,NA,98,71,1,0,1,NA,NA
+28,MNC,2024-06-14,1975-08-13,F,English,Cholesterol,Normal,149,NA,NA,NA,NA,NA,NA,NA,NA,NA
+28,MNC,2024-06-14,1975-08-13,F,English,Glucose,Normal,,87,1,NA,NA,NA,NA,NA,NA,NA
+28,MNC,2024-06-14,1975-08-13,F,English,BP,Abnormal,,NA,NA,147,87,1,1,1,NA,NA
+182,MNC,2024-06-14,1971-01-02,,,Cholesterol,Normal,180,NA,NA,NA,NA,NA,NA,NA,NA,NA
+182,MNC,2024-06-14,1971-01-02,,,Glucose,Normal,,97,1,NA,NA,NA,NA,NA,NA,NA
+182,MNC,2024-06-14,1971-01-02,,,BP,Normal,,NA,NA,89,63,1,NA,NA,NA,NA
+326,Chinatown YMCA,2024-05-15,1957-01-01,F,Chinese,Cholesterol,Normal,185,NA,NA,NA,NA,NA,NA,NA,NA,NA
+326,Chinatown YMCA,2024-05-15,1957-01-01,F,Chinese,Glucose,Normal,,59,0,NA,NA,NA,NA,NA,NA,NA
+326,Chinatown YMCA,2024-05-15,1957-01-01,F,Chinese,BP,Normal,,NA,NA,103,67,NA,NA,NA,NA,NA
+111,Chinatown YMCA,2024-05-15,1957-03-24,F,English,Cholesterol,Normal,157,NA,NA,NA,NA,NA,NA,NA,NA,NA
+111,Chinatown YMCA,2024-05-15,1957-03-24,F,English,Glucose,Normal,,106,0,NA,NA,NA,NA,NA,NA,NA
+111,Chinatown YMCA,2024-05-15,1957-03-24,F,English,BP,Abnormal,,NA,NA,116,82,NA,NA,NA,NA,NA
+157,Chinatown YMCA,2024-05-15,1957-08-21,F,Chinese,Cholesterol,Normal,194,NA,NA,NA,NA,NA,NA,NA,NA,NA
+157,Chinatown YMCA,2024-05-15,1957-08-21,F,Chinese,Glucose,Abnormal,,176,0,NA,NA,NA,NA,NA,NA,NA
+157,Chinatown YMCA,2024-05-15,1957-08-21,F,Chinese,BP,Normal,,NA,NA,107,80,NA,NA,NA,NA,NA
+333,Chinatown YMCA,2024-05-15,1936-08-20,M,Chinese,Cholesterol,Normal,149,NA,NA,NA,NA,NA,NA,NA,NA,NA
+333,Chinatown YMCA,2024-05-15,1936-08-20,M,Chinese,Glucose,Normal,,102,0,NA,NA,NA,NA,NA,NA,NA
+333,Chinatown YMCA,2024-05-15,1936-08-20,M,Chinese,BP,Normal,,NA,NA,112,57,NA,NA,NA,NA,NA
+248,Chinatown YMCA,2024-05-15,1934-04-09,F,Chinese,Cholesterol,Abnormal,259,NA,NA,NA,NA,NA,NA,NA,NA,NA
+248,Chinatown YMCA,2024-05-15,1934-04-09,F,Chinese,Glucose,Abnormal,,172,0,NA,NA,NA,NA,NA,NA,NA
+248,Chinatown YMCA,2024-05-15,1934-04-09,F,Chinese,BP,Abnormal,,NA,NA,143,97,NA,NA,NA,NA,NA
+110,Mission YMCA,2024-06-10,1951-05-31,F,Spanish,Glucose,Normal,,138,0,NA,NA,NA,NA,NA,NA,NA
+110,Mission YMCA,2024-06-10,1951-05-31,F,Spanish,BP,Abnormal,,NA,NA,145,76,NA,NA,NA,NA,NA
+314,Mission YMCA,2024-06-10,1949-02-27,M,English,Cholesterol,Normal,149,NA,NA,NA,NA,NA,NA,NA,NA,NA
+314,Mission YMCA,2024-06-10,1949-02-27,M,English,Glucose,Normal,,109,0,NA,NA,NA,NA,NA,NA,NA
+314,Mission YMCA,2024-06-10,1949-02-27,M,English,BP,Normal,,NA,NA,111,64,NA,NA,NA,NA,NA
+95,Mission YMCA,2024-06-10,1952-03-23,F,Spanish,Cholesterol,Normal,151,NA,NA,NA,NA,NA,NA,NA,NA,NA
+95,Mission YMCA,2024-06-10,1952-03-23,F,Spanish,Glucose,Abnormal,,150,0,NA,NA,NA,NA,NA,NA,NA
+95,Mission YMCA,2024-06-10,1952-03-23,F,Spanish,BP,Abnormal,,NA,NA,140,78,NA,NA,NA,NA,NA
+95,Mission YMCA,2024-06-10,1952-03-23,F,Spanish,BP,Abnormal,,NA,NA,155,79,NA,NA,NA,NA,NA
+53,Mission YMCA,2024-06-10,NA,F,Spanish,Cholesterol,Normal,177,NA,NA,NA,NA,NA,NA,NA,NA,NA
+53,Mission YMCA,2024-06-10,NA,F,Spanish,Glucose,Abnormal,,240,0,NA,NA,NA,NA,NA,NA,NA
+53,Mission YMCA,2024-06-10,NA,F,Spanish,BP,Abnormal,,NA,NA,132,83,NA,NA,NA,NA,NA
+74,Mission YMCA,2024-06-10,1950-04-09,F,English,Cholesterol,Normal,149,NA,NA,NA,NA,NA,NA,NA,NA,NA
+74,Mission YMCA,2024-06-10,1950-04-09,F,English,Glucose,Abnormal,,147,0,NA,NA,NA,NA,NA,NA,NA
+74,Mission YMCA,2024-06-10,1950-04-09,F,English,BP,Abnormal,,NA,NA,159,88,1,NA,NA,NA,NA
+118,Mission YMCA,2024-06-10,1957-07-07,F,English,Cholesterol,Normal,182,NA,NA,NA,NA,NA,NA,NA,NA,NA
+118,Mission YMCA,2024-06-10,1957-07-07,F,English,Glucose,Abnormal,,148,0,NA,NA,NA,NA,NA,NA,NA
+118,Mission YMCA,2024-06-10,1957-07-07,F,English,BP,Normal,,NA,NA,106,76,NA,NA,NA,NA,NA
+147,Mission YMCA,2024-06-10,1946-08-16,F,English,Cholesterol,Abnormal,202,NA,NA,NA,NA,NA,NA,NA,NA,NA
+147,Mission YMCA,2024-06-10,1946-08-16,F,English,Glucose,Abnormal,,107,1,NA,NA,NA,NA,NA,NA,NA
+147,Mission YMCA,2024-06-10,1946-08-16,F,English,BP,Abnormal,,NA,NA,161,93,1,NA,NA,NA,NA
+188,Mission YMCA,2024-06-10,1982-01-01,F,English,Cholesterol,Normal,149,NA,NA,NA,NA,NA,NA,NA,NA,NA
+188,Mission YMCA,2024-06-10,1982-01-01,F,English,Glucose,Normal,,114,0,NA,NA,NA,NA,NA,NA,NA
+188,Mission YMCA,2024-06-10,1982-01-01,F,English,BP,Abnormal,,NA,NA,124,88,1,NA,NA,NA,NA
+155,Chinatown YMCA,2024-06-19,1954-12-17,F,English,Cholesterol,Abnormal,239,NA,NA,NA,NA,1,1,1,1,NA
+115,Chinatown YMCA,2024-06-19,1936-11-05,F,Chinese,Cholesterol,Normal,178,NA,NA,NA,NA,NA,NA,NA,NA,NA
+115,Chinatown YMCA,2024-06-19,1936-11-05,F,Chinese,Glucose,Abnormal,,179,0,NA,NA,NA,NA,NA,NA,NA
+115,Chinatown YMCA,2024-06-19,1936-11-05,F,Chinese,BP,Abnormal,,NA,NA,147,81,NA,NA,NA,NA,NA
+331,Chinatown YMCA,2024-06-19,2026-08-20,M,,Cholesterol,Normal,194,NA,NA,NA,NA,NA,NA,NA,NA,NA
+331,Chinatown YMCA,2024-06-19,2026-08-20,M,,Glucose,Normal,,120,0,NA,NA,NA,NA,NA,NA,NA
+331,Chinatown YMCA,2024-06-19,2026-08-20,M,,BP,Abnormal,,NA,NA,129,59,NA,NA,NA,NA,NA
+24,Chinatown YMCA,2024-06-19,1952-06-28,F,,Cholesterol,Normal,153,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24,Chinatown YMCA,2024-06-19,1952-06-28,F,,Glucose,Normal,,97,0,NA,NA,NA,NA,NA,NA,NA
+24,Chinatown YMCA,2024-06-19,1952-06-28,F,,BP,Normal,,NA,NA,119,73,1,0,NA,NA,NA
+77,Chinatown YMCA,2024-06-19,1963-05-12,M,English,Cholesterol,Normal,149,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33,MNC,2024-07-05,1948-03-05,M,Spanish,BP,Abnormal,,NA,NA,155,88,NA,NA,NA,NA,NA
+33,MNC,2024-07-05,1948-03-05,M,Spanish,Cholesterol,Normal,149w,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33,MNC,2024-07-05,1948-03-05,M,Spanish,Glucose,Normal,,109,0,NA,NA,NA,NA,NA,NA,NA
+108,MNC,2024-07-05,1968-03-25,M,Spanish,BP,Abnormal,,NA,NA,123,79,NA,NA,NA,NA,NA
+108,MNC,2024-07-05,1968-03-25,M,Spanish,Glucose,Normal,,108,0,NA,NA,NA,NA,NA,NA,NA
+108,MNC,2024-07-05,1968-03-25,M,Spanish,Cholesterol,Normal,153,NA,NA,NA,NA,NA,NA,NA,NA,NA
+142,MNC,2024-07-05,1946-05-11,M,Spanish,BP,Abnormal,,NA,NA,163,85,NA,NA,NA,NA,NA
+154,MNC,2024-07-05,1945-12-17,F,Chinese,Cholesterol,Abnormal,301,NA,NA,NA,NA,NA,NA,NA,NA,NA
+154,MNC,2024-07-05,1945-12-17,F,Chinese,Glucose,Normal,,127,0,NA,NA,NA,NA,NA,NA,NA
+154,MNC,2024-07-05,1945-12-17,F,Chinese,BP,Abnormal,,NA,NA,169,88,NA,NA,NA,NA,NA
+230,MNC,2024-07-05,1949-11-08,F,English/Russian,BP,Normal,,NA,NA,120,59,NA,NA,NA,NA,NA
+176,MNC,2024-07-05,1949-11-24,F,Spanish,BP,Normal,,NA,NA,101,60,NA,NA,NA,NA,NA
+176,MNC,2024-07-05,1949-11-24,F,Spanish,Cholesterol,,149,NA,NA,NA,NA,NA,NA,NA,NA,NA
+176,MNC,2024-07-05,1949-11-24,F,Spanish,Glucose,Abnormal,,184,0,NA,NA,NA,NA,NA,NA,NA
+262,MNC,2024-07-05,1942-08-06,F,Spanish,BP,Normal,,NA,NA,109,58,NA,NA,NA,NA,NA
+262,MNC,2024-07-05,1942-08-06,F,Spanish,Cholesterol,Normal,184,NA,NA,NA,NA,NA,NA,NA,NA,NA
+262,MNC,2024-07-05,1942-08-06,F,Spanish,Glucose,Normal,,133,0,NA,NA,NA,NA,NA,NA,NA
+186,MNC,2024-07-05,1963-08-15,F,Spanish,Cholesterol,Abnormal,271,NA,NA,NA,NA,NA,NA,NA,NA,NA
+186,MNC,2024-07-05,1963-08-15,F,Spanish,glucose,Normal,,121,0,NA,NA,NA,NA,NA,NA,NA
+186,MNC,2024-07-05,1963-08-15,F,Spanish,BP,Abnormal,,NA,NA,131,77,NA,NA,NA,NA,NA
+196,MNC,2024-07-05,1938-01-01,F,Spanish,Cholesterol,Normal,216,101,0,109,73,NA,NA,NA,NA,NA
+314,MNC,2024-07-05,1949-02-27,M,Chinese,Glucose,Abnormal,,202,0,NA,NA,NA,NA,NA,NA,NA
+314,MNC,2024-07-05,1949-02-27,M,Chinese,Cholesterol,Normal,155,NA,NA,NA,NA,NA,NA,NA,NA,NA
+314,MNC,2024-07-05,1949-02-27,M,Chinese,BP,Normal,,NA,NA,111,68,NA,NA,NA,NA,NA
+189,MNC,2024-07-05,1934-05-15,F,Spanish,Glucose,Abnormal,,263,0,NA,NA,NA,NA,NA,NA,NA
+189,MNC,2024-07-05,1934-05-15,F,Spanish,Cholesterol,Abnormal,227,NA,NA,NA,NA,NA,NA,NA,NA,NA
+189,MNC,2024-07-05,1934-05-15,F,Spanish,BP,Normal,,NA,NA,115,68,NA,NA,NA,NA,NA
+42,MNC,2024-07-05,1947-07-10,F,Spanish,Glucose,Abnormal,,196,0,NA,NA,NA,NA,NA,NA,NA
+42,MNC,2024-07-05,1947-07-10,F,Spanish,Cholesterol,Normal,153,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42,MNC,2024-07-05,1947-07-10,F,Spanish,BP,Normal,,NA,NA,104,61,NA,NA,NA,NA,NA
+62,MNC,2024-07-05,1949-12-26,F,Chinese,Glucose,Abnormal,,195,0,NA,NA,NA,NA,NA,NA,NA
+62,MNC,2024-07-05,1949-12-26,F,Chinese,Cholesterol,Normal,178,NA,NA,NA,NA,NA,NA,NA,NA,NA
+62,MNC,2024-07-05,1949-12-26,F,Chinese,BP,Abnormal,,NA,NA,140,78,NA,NA,NA,NA,NA
+146,MNC,2024-07-05,1954-10-05,F,Chinese,Cholesterol,Normal,208,NA,NA,NA,NA,NA,NA,NA,NA,NA
+146,MNC,2024-07-05,1954-10-05,F,Chinese,Glucose,Normal,,105,0,NA,NA,NA,NA,NA,NA,NA
+146,MNC,2024-07-05,1954-10-05,F,Chinese,BP,Normal,,NA,NA,111,63,NA,NA,NA,NA,NA
+38,MNC,2024-07-05,1946-04-16,F,Spanish,Cholesterol,Abnormal,220,NA,NA,NA,NA,NA,NA,NA,NA,NA
+38,MNC,2024-07-05,1946-04-16,F,Spanish,Glucose,Abnormal,,191,0,NA,NA,NA,NA,NA,NA,NA
+38,MNC,2024-07-05,1946-04-16,F,Spanish,BP,Abnormal,,NA,NA,121,61,NA,NA,NA,NA,NA
+107,MNC,2024-07-05,1954-10-24,F,Spanish,Cholesterol,Abnormal,223,NA,NA,NA,NA,NA,NA,NA,NA,NA
+107,MNC,2024-07-05,1954-10-24,F,Spanish,Glucose,Abnormal,,101,0,NA,NA,NA,NA,NA,NA,NA
+107,MNC,2024-07-05,1954-10-24,F,Spanish,BP,Abnormal,,NA,NA,130,88,NA,NA,NA,NA,NA
+270,MNC,2024-07-05,1963-09-25,F,Spanish,Cholesterol,Normal,165,NA,NA,NA,NA,NA,NA,NA,NA,NA
+270,MNC,2024-07-05,1963-09-25,F,Spanish,Glucose,Normal,,127,0,NA,NA,NA,NA,NA,NA,NA
+270,MNC,2024-07-05,1963-09-25,F,Spanish,BP,Normal,,NA,NA,98,72,NA,NA,NA,NA,NA
+196,MNC,2024-08-02,1938-01-01,F,Spanish,Cholesterol,Normal,185,NA,NA,NA,NA,NA,NA,NA,NA,NA
+196,MNC,2024-08-02,1938-01-01,F,Spanish,Glucose,Normal,,107,0,NA,NA,NA,NA,NA,NA,NA
+196,MNC,2024-08-02,1938-01-01,F,Spanish,BP,Abnormal,,NA,NA,117,93,NA,NA,NA,NA,NA
+154,MNC,2024-08-02,1945-12-17,F,Chinese,Cholesterol,Abnormal,293,NA,NA,NA,NA,NA,NA,NA,NA,NA
+154,MNC,2024-08-02,1945-12-17,F,Chinese,Glucose,Normal,,111,0,NA,NA,NA,NA,NA,NA,NA
+154,MNC,2024-08-02,1945-12-17,F,Chinese,BP,Abnormal,,NA,NA,NA,NA,NA,NA,NA,NA,NA
+38,MNC,2024-08-02,1946-04-16,F,Spanish,Glucose,Abnormal,222,NA,NA,NA,NA,NA,NA,NA,NA,NA
+38,MNC,2024-08-02,1946-04-16,F,Spanish,Cholesterol,Normal,,113,0,NA,NA,NA,NA,NA,NA,NA
+38,MNC,2024-08-02,1946-04-16,F,Spanish,BP,Abnormal,,NA,NA,133,110,NA,NA,NA,NA,NA
+12,MNC,2024-08-02,1992-03-13,F,Chinese,Cholesterol,Normal,177,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,MNC,2024-08-02,1992-03-13,F,Chinese,Glucose,Normal,,106,0,NA,NA,NA,NA,NA,NA,NA
+12,MNC,2024-08-02,1992-03-13,F,Chinese,Glucose,Normal,,NA,NA,98,72,NA,NA,NA,NA,NA
+113,MNC,2024-08-02,1953-02-24,M,Spanish,Cholesterol,Abnormal,261,NA,NA,NA,NA,NA,NA,NA,NA,NA
+113,MNC,2024-08-02,1953-02-24,M,Spanish,Glucose,Normal,,100,0,NA,NA,NA,NA,NA,NA,NA
+113,MNC,2024-08-02,1953-02-24,M,Spanish,BP,Abnormal,,NA,NA,166,91,NA,NA,NA,NA,NA
+7,MNC,2024-08-02,1947-07-02,F,Spanish,Cholesterol,Normal,175,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7,MNC,2024-08-02,1947-07-02,F,Spanish,Glucose,Normal,,96,0,NA,NA,NA,NA,NA,NA,NA
+7,MNC,2024-08-02,1947-07-02,F,Spanish,BP,Abnormal,,NA,NA,150,75,NA,NA,NA,NA,NA
+103,MNC,2024-08-02,1934-09-21,M,Spanish,Cholesterol,Normal,149,NA,NA,NA,NA,NA,NA,NA,NA,NA
+103,MNC,2024-08-02,1934-09-21,M,Spanish,Glucose,Normal,,123,0,NA,NA,NA,NA,NA,NA,NA
+103,MNC,2024-08-02,1934-09-21,M,Spanish,BP,Normal,,NA,NA,120,69,NA,NA,NA,NA,NA
+314,MNC,2024-08-02,1949-02-27,M,Chinese,Cholesterol,Normal,161,NA,NA,NA,NA,NA,NA,NA,NA,NA
+314,MNC,2024-08-02,1949-02-27,M,Chinese,Glucose,Abnormal,,103,1,NA,NA,NA,NA,NA,NA,NA
+314,MNC,2024-08-02,1949-02-27,M,Chinese,BP,Abnormal,,NA,NA,129,73,NA,NA,NA,NA,NA
+51,MNC,2024-08-02,1962-05-30,M,Spanish/English,Glucose,Abnormal,208,NA,NA,NA,NA,NA,NA,NA,NA,NA
+51,MNC,2024-08-02,1962-05-30,M,Spanish/English,Glucose,Normal,,99,0,NA,NA,NA,NA,NA,NA,NA
+51,MNC,2024-08-02,1962-05-30,M,Spanish/English,Glucose,Abnormal,,NA,NA,132,81,NA,NA,NA,NA,NA
+259,MNC,2024-08-02,1938-12-17,F,Spanish,Cholesterol,Abnormal,224,NA,NA,NA,NA,NA,NA,NA,NA,NA
+259,MNC,2024-08-02,1938-12-17,F,Spanish,Glucose,Normal,,94,0,NA,NA,NA,NA,NA,NA,NA
+259,MNC,2024-08-02,1938-12-17,F,Spanish,BP,Abnormal,,NA,NA,141,65,NA,NA,NA,NA,NA
+112,MNC,2024-08-02,NA,F,English,Cholesterol,Abnormal,252,NA,NA,NA,NA,NA,NA,NA,NA,NA
+112,MNC,2024-08-02,NA,F,English,Glucose,Normal,,99,1,NA,NA,NA,NA,NA,NA,NA
+112,MNC,2024-08-02,NA,F,English,BP,Normal,,NA,NA,98,71,NA,NA,NA,NA,NA
+146,MNC,2024-08-02,1954-10-05,F,Chinese,Cholesterol,Abnormal,212,NA,NA,NA,NA,NA,NA,NA,NA,NA
+146,MNC,2024-08-02,1954-10-05,F,Chinese,Glucose,Normal,,109,0,NA,NA,NA,NA,NA,NA,NA
+146,MNC,2024-08-02,1954-10-05,F,Chinese,BP,Normal,,NA,NA,112,67,NA,NA,NA,NA,NA
+238,MNC,2024-08-02,1950-11-12,F,English,Cholesterol,Abnormal,288,NA,NA,NA,NA,NA,NA,NA,NA,NA
+238,MNC,2024-08-02,1950-11-12,F,English,Glucose,Abnormal,,NA,NA,NA,NA,NA,NA,NA,NA,NA
+238,MNC,2024-08-02,1950-11-12,F,English,BP,Abnormal,,NA,NA,158,92,NA,NA,NA,NA,NA
+108,MNC,2024-08-02,1968-03-25,M,Spanish,Cholesterol,Normal,149,NA,NA,NA,NA,NA,NA,NA,NA,NA
+108,MNC,2024-08-02,1968-03-25,M,Spanish,Glucose,Abnormal,,154,0,NA,NA,NA,NA,NA,NA,NA
+108,MNC,2024-08-02,1968-03-25,M,Spanish,BP,Abnormal,,NA,NA,136,87,NA,NA,NA,NA,NA
+42,MNC,2024-08-02,1947-07-10,F,Spanish,Cholesterol,Normal,149,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42,MNC,2024-08-02,1947-07-10,F,Spanish,Glucose,Abnormal,,145,0,NA,NA,NA,NA,NA,NA,NA
+42,MNC,2024-08-02,1947-07-10,F,Spanish,BP,Normal,,NA,NA,95,58,NA,NA,NA,NA,NA
+270,MNC,2024-08-02,1963-09-25,F,Spanish,Cholesterol,Normal,166,NA,NA,NA,NA,NA,NA,NA,NA,NA
+270,MNC,2024-08-02,1963-09-25,F,Spanish,Glucose,Abnormal,,168,0,NA,NA,NA,NA,NA,NA,NA
+270,MNC,2024-08-02,1963-09-25,F,Spanish,BP,Normal,,NA,NA,101,78,NA,NA,NA,NA,NA
+77,Chinatown YMCA,2024-06-19,1963-05-12,M,English,Glucose,Normal,,83,0,NA,NA,NA,NA,NA,NA,NA
+77,Chinatown YMCA,2024-06-19,1963-05-12,M,English,BP,Abnormal,,NA,NA,157,95,1,0,0,1,NA
+248,Chinatown YMCA,2024-06-19,1934-04-09,F,,Cholesterol,Abnormal,261,NA,NA,NA,NA,NA,NA,NA,NA,NA
+248,Chinatown YMCA,2024-06-19,1934-04-09,F,,Glucose,Normal,,78,0,NA,NA,NA,NA,NA,NA,NA
+248,Chinatown YMCA,2024-06-19,1934-04-09,F,,BP,Abnormal,,NA,NA,122,90,NA,NA,NA,NA,NA
+162,Chinatown YMCA,2024-06-19,1948-09-24,F,,Cholesterol,Normal,165,NA,NA,NA,NA,NA,NA,NA,NA,NA
+162,Chinatown YMCA,2024-06-19,1948-09-24,F,,BP,Abnormal,,NA,NA,142,76,NA,NA,NA,NA,NA
+313,Chinatown YMCA,2024-06-19,1952-03-15,F,,BP,Abnormal,,NA,NA,123,79,NA,NA,NA,NA,NA
+313,Chinatown YMCA,2024-06-19,1952-03-15,F,,BP,Abnormal,,NA,NA,132,74,NA,NA,NA,NA,NA
+267,Chinatown YMCA,2024-06-19,1942-05-27,F,English,Cholesterol,Normal,153,NA,NA,NA,NA,NA,NA,NA,NA,NA
+267,Chinatown YMCA,2024-06-19,1942-05-27,F,English,Glucose,Normal,,100,0,NA,NA,NA,NA,NA,NA,NA
+267,Chinatown YMCA,2024-06-19,1942-05-27,F,English,BP,Abnormal,,NA,NA,153,91,NA,NA,NA,NA,NA
+267,Chinatown YMCA,2024-06-19,1942-05-27,F,English,BP,Abnormal,,NA,NA,154,95,1,NA,NA,NA,NA
+30,Chinatown YMCA,2024-06-19,NA,M,Chinese,Cholesterol,Normal,149,NA,NA,NA,NA,NA,NA,NA,NA,NA
+30,Chinatown YMCA,2024-06-19,NA,M,Chinese,BP,Normal,,NA,NA,111,69,NA,NA,NA,NA,NA
+167,Chinatown YMCA,2024-06-19,1970-09-15,F,English,Cholesterol,Normal,165,NA,NA,NA,NA,NA,NA,NA,NA,NA
+167,Chinatown YMCA,2024-06-19,1970-09-15,F,English,BP,Normal,,NA,NA,101,66,NA,NA,NA,NA,NA
+167,Chinatown YMCA,2024-06-19,1970-09-15,F,English,BP,Normal,,NA,NA,106,72,NA,NA,NA,NA,NA
+272,Donon's Flu Clinic,2024-09-24,1940-07-20,F,English,BP,Normal,,NA,NA,111,60,NA,NA,NA,NA,NA
+80,Donon's Flu Clinic,2024-09-24,1949-11-29,M,English,Cholesterol,Normal,156,NA,NA,NA,NA,NA,NA,NA,NA,NA
+80,Donon's Flu Clinic,2024-09-24,1949-11-29,M,English,Glucose,Normal,,96,0,NA,NA,NA,NA,NA,NA,NA
+80,Donon's Flu Clinic,2024-09-24,1949-11-29,M,English,BP,Normal,,NA,NA,110,72,1,NA,NA,NA,NA
+209,Donon's Flu Clinic,2024-09-24,1943-03-15,F,English,Cholesterol,Abnormal,219,NA,NA,NA,NA,NA,NA,NA,NA,NA
+209,Donon's Flu Clinic,2024-09-24,1943-03-15,F,English,Glucose,Normal,,119,0,NA,NA,NA,NA,NA,NA,NA
+209,Donon's Flu Clinic,2024-09-24,1943-03-15,F,English,BP,Normal,,NA,NA,100,68,1,NA,NA,NA,NA
+72,Donon's Flu Clinic,2024-09-24,1949-01-13,F,English,Cholesterol,Abnormal,209,NA,NA,NA,NA,NA,NA,NA,NA,NA
+72,Donon's Flu Clinic,2024-09-24,1949-01-13,F,English,Glucose,Normal,,98,0,NA,NA,NA,NA,NA,NA,NA
+72,Donon's Flu Clinic,2024-09-24,1949-01-13,F,English,BP,Abnormal,,NA,NA,122,75,1,NA,NA,NA,NA
+222,Donon's Flu Clinic,2024-09-24,1949-06-28,F,English,Cholesterol,Abnormal,251,NA,NA,NA,NA,NA,NA,NA,NA,NA
+222,Donon's Flu Clinic,2024-09-24,1949-06-28,F,English,Glucose,Abnormal,,158,0,NA,NA,NA,NA,NA,NA,NA
+222,Donon's Flu Clinic,2024-09-24,1949-06-28,F,English,BP,Abnormal,,NA,NA,127,90,1,NA,NA,NA,NA
+228,Donon's Flu Clinic,2024-09-24,1995-09-13,F,English,Cholesterol,Normal,155,NA,NA,NA,NA,NA,NA,NA,NA,NA
+228,Donon's Flu Clinic,2024-09-24,1995-09-13,F,English,Glucose,Normal,,94,0,NA,NA,NA,NA,NA,NA,NA
+228,Donon's Flu Clinic,2024-09-24,1995-09-13,F,English,BP,Normal,,NA,NA,96,67,NA,NA,NA,NA,NA
+91,Donon's Flu Clinic,2024-09-24,1999-11-13,F,English,Cholesterol,Normal,155,NA,NA,NA,NA,NA,NA,NA,NA,NA
+91,Donon's Flu Clinic,2024-09-24,1999-11-13,F,English,Glucose,Normal,,96,0,NA,NA,NA,NA,NA,NA,NA
+91,Donon's Flu Clinic,2024-09-24,1999-11-13,F,English,BP,Normal,,NA,NA,105,71,0,NA,NA,NA,NA
+237,Donon's Flu Clinic,2024-09-24,1994-11-22,F,English,Cholesterol,Normal,179,NA,NA,NA,NA,NA,NA,NA,NA,NA
+237,Donon's Flu Clinic,2024-09-24,1994-11-22,F,English,Glucose,Normal,,91,0,NA,NA,NA,NA,NA,NA,NA
+237,Donon's Flu Clinic,2024-09-24,1994-11-22,F,English,BP,Abnormal,,NA,NA,116,81,NA,NA,NA,NA,NA
+254,Donon's Flu Clinic,2024-09-24,1994-11-05,F,English,Cholesterol,Normal,164,NA,NA,NA,NA,NA,NA,NA,NA,NA
+254,Donon's Flu Clinic,2024-09-24,1994-11-05,F,English,Glucose,Normal,,106,0,NA,NA,NA,NA,NA,NA,NA
+254,Donon's Flu Clinic,2024-09-24,1994-11-05,F,English,BP,Abnormal,,NA,NA,107,84,1,NA,NA,NA,NA
+269,Donon's Flu Clinic,2024-09-25,1938-03-26,F,English,Cholesterol,Normal,185,NA,NA,NA,NA,NA,NA,NA,NA,NA
+269,Donon's Flu Clinic,2024-09-25,1938-03-26,F,English,Glucose,Normal,,115,0,NA,NA,NA,NA,NA,NA,NA
+269,Donon's Flu Clinic,2024-09-25,1938-03-26,F,English,BP,Abnormal,,NA,NA,134,79,1,NA,NA,NA,NA
+134,Donon's Flu Clinic,2024-09-25,1934-02-15,F,English,Cholesterol,Normal,150,NA,NA,NA,NA,NA,NA,NA,NA,NA
+134,Donon's Flu Clinic,2024-09-25,1934-02-15,F,English,Glucose,Normal,,98,0,NA,NA,NA,NA,NA,NA,NA
+134,Donon's Flu Clinic,2024-09-25,1934-02-15,F,English,BP,Normal,,NA,NA,112,69,1,NA,NA,NA,NA
+36,Donon's Flu Clinic,2024-09-25,1941-12-24,F,English,Cholesterol,Abnormal,250,NA,NA,NA,NA,NA,NA,NA,NA,NA
+36,Donon's Flu Clinic,2024-09-25,1941-12-24,F,English,Glucose,Normal,,133,0,NA,NA,NA,NA,NA,NA,NA
+36,Donon's Flu Clinic,2024-09-25,1941-12-24,F,English,BP,Normal,,NA,NA,99,52,1,NA,NA,NA,NA
+310,Donon's Flu Clinic,2024-09-25,1943-10-06,F,English,Cholesterol,Normal,167,NA,NA,NA,NA,NA,NA,NA,NA,NA
+310,Donon's Flu Clinic,2024-09-25,1943-10-06,F,English,Glucose,Normal,,109,0,NA,NA,NA,NA,NA,NA,NA
+310,Donon's Flu Clinic,2024-09-25,1943-10-06,F,English,BP,Normal,,NA,NA,103,65,1,NA,NA,NA,NA
+22,Donon's Flu Clinic,2024-09-25,1945-08-01,M,English,BP,Abnormal,,NA,NA,141,85,1,NA,NA,NA,NA
+200,Donon's Flu Clinic,2024-09-25,1938-05-17,F,English,Cholesterol,Abnormal,205,NA,NA,NA,NA,NA,NA,NA,NA,NA
+200,Donon's Flu Clinic,2024-09-25,1938-05-17,F,English,Glucose,Normal,,105,0,NA,NA,NA,NA,NA,NA,NA
+200,Donon's Flu Clinic,2024-09-25,1938-05-17,F,English,BP,Abnormal,,NA,NA,165,70,1,NA,NA,NA,NA
+284,Donon's Flu Clinic,2024-09-25,1946-04-06,F,English,BP,Normal,,NA,NA,118,79,1,NA,NA,NA,NA
+75,Donon's Flu Clinic,2024-09-25,1953-12-24,M,English,Cholesterol,Normal,184,NA,NA,NA,NA,NA,NA,NA,NA,NA
+75,Donon's Flu Clinic,2024-09-25,1953-12-24,M,English,Glucose,Normal,,90,0,NA,NA,NA,NA,NA,NA,NA
+75,Donon's Flu Clinic,2024-09-25,1953-12-24,M,English,BP,Abnormal,,NA,NA,121,77,1,NA,NA,NA,NA
+165,Donon's Flu Clinic,2024-09-25,NA,F,English,Cholesterol,Normal,177,NA,NA,NA,NA,NA,NA,NA,NA,NA
+165,Donon's Flu Clinic,2024-09-25,NA,F,English,Glucose,Normal,,105,0,NA,NA,NA,NA,NA,NA,NA
+165,Donon's Flu Clinic,2024-09-25,NA,F,English,BP,Abnormal,,NA,NA,138,74,1,NA,NA,NA,NA
+1,Chinatown YMCA,2024-06-19,1977-02-11,F,English,Cholesterol,Normal,163,NA,NA,NA,NA,NA,NA,NA,NA,NA
+191,MNC,2024-10-04,1942-03-28,F,Spanish,Cholesterol,Normal,149,NA,NA,NA,NA,NA,NA,NA,NA,NA
+191,MNC,2024-10-04,1942-03-28,F,Spanish,Glucose,Normal,,132,0,NA,NA,NA,NA,NA,NA,NA
+191,MNC,2024-10-04,1942-03-28,F,Spanish,BP,Normal,,NA,NA,113,67,NA,NA,NA,NA,NA
+155,MNC,2024-10-04,1954-12-17,F,English,Cholesterol,Abnormal,273,NA,NA,NA,NA,NA,NA,NA,NA,NA
+155,MNC,2024-10-04,1954-12-17,F,English,Glucose,Normal,,132,0,NA,NA,NA,NA,NA,NA,NA
+139,MNC,2024-10-04,1949-06-10,M,Spanish,Cholesterol,Normal,149,NA,NA,NA,NA,NA,NA,NA,NA,NA
+139,MNC,2024-10-04,1949-06-10,M,Spanish,Glucose,Normal,,92,0,NA,NA,NA,NA,NA,NA,NA
+139,MNC,2024-10-04,1949-06-10,M,Spanish,BP,Abnormal,,NA,NA,114,81,0,0,0,0,NA
+262,MNC,2024-10-04,1942-08-06,F,Spanish,Cholesterol,Normal,151,NA,NA,NA,NA,NA,NA,NA,NA,NA
+262,MNC,2024-10-04,1942-08-06,F,Spanish,Glucose,Normal,,119,0,NA,NA,NA,NA,NA,NA,NA
+262,MNC,2024-10-04,1942-08-06,F,Spanish,BP,Normal,,NA,NA,116,57,1,0,1,NA,NA
+176,MNC,2024-10-04,1949-11-24,F,Spanish,Cholesterol,Normal,189,NA,NA,NA,NA,NA,NA,NA,NA,NA
+176,MNC,2024-10-04,1949-11-24,F,Spanish,Glucose,Normal,,134,0,NA,NA,NA,NA,NA,NA,NA
+176,MNC,2024-10-04,1949-11-24,F,Spanish,BP,Normal,,NA,NA,102,48,1,0,1,NA,NA
+189,MNC,2024-10-04,1934-05-15,F,Spanish,Cholesterol,Normal,170,NA,NA,NA,NA,NA,NA,NA,NA,NA
+189,MNC,2024-10-04,1934-05-15,F,Spanish,Glucose,Abnormal,,177,0,NA,NA,NA,NA,NA,NA,NA
+189,MNC,2024-10-04,1934-05-15,F,Spanish,BP,Abnormal,,NA,NA,122,64,NA,NA,NA,NA,NA
+314,MNC,2024-10-04,1949-02-27,M,English,Cholesterol,Abnormal,249,NA,NA,NA,NA,NA,NA,NA,NA,NA
+314,MNC,2024-10-04,1949-02-27,M,English,Glucose,Abnormal,,107,1,NA,NA,NA,NA,NA,NA,NA
+314,MNC,2024-10-04,1949-02-27,M,English,BP,Abnormal,,NA,NA,126,71,1,0,0,NA,NA
+52,MNC,2024-10-04,1962-05-30,M,Spanish,Cholesterol,Normal,200,NA,NA,NA,NA,NA,NA,NA,NA,NA
+52,MNC,2024-10-04,1962-05-30,M,Spanish,Glucose,Normal,,107,0,NA,NA,NA,NA,NA,NA,NA
+52,MNC,2024-10-04,1962-05-30,M,Spanish,BP,Normal,,NA,NA,115,70,1,0,1,NA,NA
+149,Huntersview Community Center ,2024-10-11,1978-12-01,F,English,Cholesterol,Normal,167,NA,NA,NA,NA,NA,NA,NA,NA,NA
+149,Huntersview Community Center ,2024-10-11,1978-12-01,F,English,Glucose,Normal,,116,0,NA,NA,NA,NA,NA,NA,NA
+149,Huntersview Community Center ,2024-10-11,1978-12-01,F,English,BP,Normal,,NA,NA,110,78,1,NA,NA,NA,NA
+49,Huntersview Community Center ,2024-10-11,1994-07-22,F,English,Cholesterol,Normal,150,NA,NA,NA,NA,NA,NA,NA,NA,NA
+49,Huntersview Community Center ,2024-10-11,1994-07-22,F,English,Glucose,Normal,,111,0,NA,NA,NA,NA,NA,NA,NA
+49,Huntersview Community Center ,2024-10-11,1994-07-22,F,English,BP,Normal,,NA,NA,116,76,1,0,NA,NA,NA
+160,Huntersview Community Center ,2024-10-11,1960-10-06,M,English,Cholesterol,Abnormal,222,NA,NA,NA,NA,NA,NA,NA,NA,NA
+160,Huntersview Community Center ,2024-10-11,1960-10-06,M,English,Glucose,Normal,,94,0,NA,NA,NA,NA,NA,NA,NA
+160,Huntersview Community Center ,2024-10-11,1960-10-06,M,English,BP,Abnormal,,NA,NA,115,81,1,NA,NA,NA,NA
+227,Huntersview Community Center ,2024-10-11,1972-08-26,F,English,Cholesterol,Abnormal,207,NA,NA,NA,NA,NA,NA,NA,NA,NA
+227,Huntersview Community Center ,2024-10-11,1972-08-26,F,English,Glucose,Normal,,116,0,NA,NA,NA,NA,NA,NA,NA
+227,Huntersview Community Center ,2024-10-11,1972-08-26,F,English,BP,Normal,,NA,NA,106,74,1,NA,NA,NA,NA
+253,Huntersview Community Center ,2024-10-11,1944-07-02,M,English,Cholesterol,Normal,149,NA,NA,NA,NA,NA,NA,NA,NA,NA
+253,Huntersview Community Center ,2024-10-11,1944-07-02,M,English,Glucose,Abnormal,,141,0,NA,NA,NA,NA,NA,NA,NA
+253,Huntersview Community Center ,2024-10-11,1944-07-02,M,English,BP,Abnormal,,NA,NA,154,76,0,NA,NA,NA,NA
+123,Huntersview Community Center ,2024-10-11,1978-09-13,F,English,Cholesterol,Normal,157,NA,NA,NA,NA,NA,NA,NA,NA,NA
+123,Huntersview Community Center ,2024-10-11,1978-09-13,F,English,Glucose,Normal,,107,0,NA,NA,NA,NA,NA,NA,NA
+123,Huntersview Community Center ,2024-10-11,1978-09-13,F,English,BP,Abnormal,,NA,NA,110,85,0,NA,NA,NA,NA
+226,Huntersview Community Center ,2024-10-11,1977-02-27,F,English,Cholesterol,Normal,180,NA,NA,NA,NA,NA,NA,NA,NA,NA
+226,Huntersview Community Center ,2024-10-11,1977-02-27,F,English,Glucose,Normal,,74,0,NA,NA,NA,NA,NA,NA,NA
+226,Huntersview Community Center ,2024-10-11,1977-02-27,F,English,BP,Abnormal,,NA,NA,118,85,1,NA,NA,NA,NA
+300,Huntersview Community Center ,2024-10-11,1955-08-23,F,English,Cholesterol,Normal,166,NA,NA,NA,NA,NA,NA,NA,NA,NA
+300,Huntersview Community Center ,2024-10-11,1955-08-23,F,English,Glucose,Abnormal,,144,1,NA,NA,NA,NA,NA,NA,NA
+70,Huntersview Community Center ,2024-10-11,1961-10-23,M,English,Cholesterol,Abnormal,202,NA,NA,NA,NA,NA,NA,NA,NA,NA
+70,Huntersview Community Center ,2024-10-11,1961-10-23,M,English,Glucose,Normal,,74,0,NA,NA,NA,NA,NA,NA,NA
+70,Huntersview Community Center ,2024-10-11,1961-10-23,M,English,BP,Abnormal,,NA,NA,124,74,1,NA,NA,NA,NA
+207,Huntersview Community Center ,2024-10-11,1955-01-02,F,English,Cholesterol,Normal,166,NA,NA,NA,NA,NA,NA,NA,NA,NA
+207,Huntersview Community Center ,2024-10-11,1955-01-02,F,English,Glucose,Normal,,116,0,NA,NA,NA,NA,NA,NA,NA
+207,Huntersview Community Center ,2024-10-11,1955-01-02,F,English,BP,Abnormal,,NA,NA,134,78,0,NA,NA,NA,NA
+87,Huntersview Community Center ,2024-10-11,1963-01-23,M,English,Cholesterol,Normal,149,NA,NA,NA,NA,NA,NA,NA,NA,NA
+87,Huntersview Community Center ,2024-10-11,1963-01-23,M,English,Glucose,Normal,,112,0,NA,NA,NA,NA,NA,NA,NA
+87,Huntersview Community Center ,2024-10-11,1963-01-23,M,English,BP,Abnormal,,NA,NA,131,74,1,NA,NA,NA,NA
+153,Huntersview Community Center ,2024-10-11,1967-01-05,M,English,Cholesterol,Normal,153,NA,NA,NA,NA,NA,NA,NA,NA,NA
+153,Huntersview Community Center ,2024-10-11,1967-01-05,M,English,Glucose,Normal,,101,0,NA,NA,NA,NA,NA,NA,NA
+153,Huntersview Community Center ,2024-10-11,1967-01-05,M,English,BP,Abnormal,,NA,NA,147,74,1,NA,NA,NA,NA
+128,Huntersview Community Center ,2024-10-11,1970-09-14,F,English,Cholesterol,Normal,171,NA,NA,NA,NA,NA,NA,NA,NA,NA
+128,Huntersview Community Center ,2024-10-11,1970-09-14,F,English,Glucose,Normal,,125,0,NA,NA,NA,NA,NA,NA,NA
+128,Huntersview Community Center ,2024-10-11,1970-09-14,F,English,BP,Abnormal,,NA,NA,122,75,1,NA,NA,NA,NA
+240,Huntersview Community Center ,2024-10-11,1971-01-14,F,English,Cholesterol,Normal,175,NA,NA,NA,NA,NA,NA,NA,NA,NA
+240,Huntersview Community Center ,2024-10-11,1971-01-14,F,English,Glucose,Abnormal,,181,0,NA,NA,NA,NA,NA,NA,NA
+240,Huntersview Community Center ,2024-10-11,1971-01-14,F,English,BP,Abnormal,,NA,NA,136,80,1,NA,NA,NA,NA
+296,Huntersview Community Center ,2024-10-11,1959-08-21,F,English,Cholesterol,Normal,161,NA,NA,NA,NA,NA,NA,NA,NA,NA
+296,Huntersview Community Center ,2024-10-11,1959-08-21,F,English,Glucose,Abnormal,,145,0,NA,NA,NA,NA,NA,NA,NA
+296,Huntersview Community Center ,2024-10-11,1959-08-21,F,English,BP,Abnormal,,NA,NA,121,68,1,NA,NA,NA,NA
+109,Huntersview Community Center ,2024-10-11,1965-04-14,F,English,Cholesterol,Normal,149,NA,NA,NA,NA,NA,NA,NA,NA,NA
+109,Huntersview Community Center ,2024-10-11,1965-04-14,F,English,Glucose,Normal,,101,0,NA,NA,NA,NA,NA,NA,NA
+109,Huntersview Community Center ,2024-10-11,1965-04-14,F,English,BP,Abnormal,,NA,NA,154,93,1,NA,NA,NA,NA
+309,Huntersview Community Center ,2024-10-11,1953-04-04,F,English,Cholesterol,Abnormal,244,NA,NA,NA,NA,NA,NA,NA,NA,NA
+309,Huntersview Community Center ,2024-10-11,1953-04-04,F,English,Glucose,Normal,,107,0,NA,NA,NA,NA,NA,NA,NA
+309,Huntersview Community Center ,2024-10-11,1953-04-04,F,English,BP,Abnormal,,NA,NA,151,89,1,NA,NA,NA,NA
+1,Chinatown YMCA,2024-06-19,1977-02-11,F,English,BP,Abnormal,,NA,NA,121,78,NA,NA,NA,NA,NA
+327,Chinatown YMCA,2024-06-19,1942-04-09,F,Spanish,Cholesterol,Normal,173,NA,NA,NA,NA,NA,NA,NA,NA,NA
+327,Chinatown YMCA,2024-06-19,1942-04-09,F,Spanish,Glucose,Normal,,84,1,NA,NA,NA,NA,NA,NA,NA
+327,Chinatown YMCA,2024-06-19,1942-04-09,F,Spanish,BP,Abnormal,,NA,NA,152,71,NA,NA,NA,NA,NA
+288,Chinatown YMCA,2024-06-19,1980-11-22,F,English,Glucose,Normal,,108,0,NA,NA,NA,NA,NA,NA,NA
+288,Chinatown YMCA,2024-06-19,1980-11-22,F,English,BP,Abnormal,,NA,NA,151,87,1,0,0,0,NA
+324,Chinatown YMCA,2024-06-19,1957-06-06,F,,Cholesterol,Normal,149,NA,NA,NA,NA,NA,NA,NA,NA,NA
+324,Chinatown YMCA,2024-06-19,1957-06-06,F,,BP,Abnormal,,NA,NA,123,82,1,1,1,1,NA
+332,Chinatown YMCA,2024-06-19,1944-09-04,F,Spanish,BP,Abnormal,,NA,NA,149,74,NA,NA,NA,NA,NA
+100,Chinatown YMCA,2024-06-19,1905-05-20,M,English,Cholesterol,Abnormal,252,NA,NA,NA,NA,NA,NA,NA,NA,NA
+100,Chinatown YMCA,2024-06-19,1905-05-20,M,English,BP,Abnormal,,NA,NA,164,126,NA,NA,NA,NA,NA
+100,Chinatown YMCA,2024-06-19,1905-05-20,M,English,BP,Abnormal,,NA,NA,149,117,NA,NA,NA,NA,NA
+100,Chinatown YMCA,2024-06-19,1905-05-20,M,English,BP,Abnormal,,NA,NA,164,126,0,0,1,1,NA
+305,Chinatown YMCA,2024-06-19,1955-07-01,F,,Cholesterol,Normal,193,NA,NA,NA,NA,NA,NA,NA,NA,NA
+305,Chinatown YMCA,2024-06-19,1955-07-01,F,,BP,Abnormal,,NA,NA,128,76,1,1,1,NA,NA
+159,Chinatown YMCA,2024-06-19,1955-07-08,M,,Cholesterol,Normal,178,NA,NA,NA,NA,NA,NA,NA,NA,NA
+159,Chinatown YMCA,2024-06-19,1955-07-08,M,,BP,Normal,,NA,NA,107,76,1,1,1,1,NA
+268,Chinatown YMCA,2024-06-19,1970-01-08,M,,Cholesterol,Abnormal,290,NA,NA,NA,NA,NA,NA,NA,NA,NA
+268,Chinatown YMCA,2024-06-19,1970-01-08,M,,Glucose,Normal,,97,0,NA,NA,NA,NA,NA,NA,NA
+268,Chinatown YMCA,2024-06-19,1970-01-08,M,,BP,Abnormal,,NA,NA,122,80,1,NA,NA,NA,NA
+236,Stonestown YMCA,2024-06-25,1964-06-13,F,English,Cholesterol,Normal,175,NA,NA,NA,NA,NA,NA,NA,NA,NA
+236,Stonestown YMCA,2024-06-25,1964-06-13,F,English,Glucose,Normal,,77,1,NA,NA,NA,NA,NA,NA,NA
+236,Stonestown YMCA,2024-06-25,1964-06-13,F,English,BP,Normal,,NA,NA,108,80,1,1,1,NA,NA
+101,Stonestown YMCA,2024-06-25,1957-03-18,F,English,Cholesterol,Normal,164,NA,NA,NA,NA,NA,NA,NA,NA,NA
+101,Stonestown YMCA,2024-06-25,1957-03-18,F,English,Glucose,Abnormal,,103,1,NA,NA,NA,NA,NA,NA,NA
+101,Stonestown YMCA,2024-06-25,1957-03-18,F,English,BP,Normal,,NA,NA,104,73,NA,NA,NA,NA,NA
+276,Stonestown YMCA,2024-06-25,1971-08-05,F,English,Cholesterol,Normal,164,NA,NA,NA,NA,NA,NA,NA,NA,NA
+276,Stonestown YMCA,2024-06-25,1971-08-05,F,English,Glucose,Abnormal,,102,1,NA,NA,NA,NA,NA,NA,NA
+276,Stonestown YMCA,2024-06-25,1971-08-05,F,English,BP,Abnormal,,NA,NA,114,87,0,0,0,1,NA
+9,Stonestown YMCA,2024-06-25,1934-07-16,M,English,Cholesterol,Normal,149,NA,NA,NA,NA,NA,NA,NA,NA,NA
+9,Stonestown YMCA,2024-06-25,1934-07-16,M,English,Glucose,Normal,,90,1,NA,NA,NA,NA,NA,NA,NA
+9,Stonestown YMCA,2024-06-25,1934-07-16,M,English,BP,Abnormal,,NA,NA,137,54,1,1,NA,NA,NA
+85,Stonestown YMCA,2024-06-25,1941-02-15,F,English,Cholesterol,Normal,158,NA,NA,NA,NA,NA,NA,NA,NA,NA
+85,Stonestown YMCA,2024-06-25,1941-02-15,F,English,Glucose,Normal,,99,0,NA,NA,NA,NA,NA,NA,NA
+85,Stonestown YMCA,2024-06-25,1941-02-15,F,English,BP,Normal,,NA,NA,110,58,1,0,0,1,NA
+55,Stonestown YMCA,2024-06-25,1966-01-29,F,English,Cholesterol,Normal,194,NA,NA,NA,NA,NA,NA,NA,NA,NA
+55,Stonestown YMCA,2024-06-25,1966-01-29,F,English,Glucose,Normal,,83,0,NA,NA,NA,NA,NA,NA,NA
+55,Stonestown YMCA,2024-06-25,1966-01-29,F,English,BP,Abnormal,,NA,NA,152,106,0,NA,NA,NA,NA
+243,Stonestown YMCA,2024-06-25,1949-09-08,F,English,Cholesterol,Abnormal,223,NA,NA,NA,NA,NA,NA,NA,NA,NA
+243,Stonestown YMCA,2024-06-25,1949-09-08,F,English,Glucose,Normal,,101,0,NA,NA,NA,NA,NA,NA,NA
+243,Stonestown YMCA,2024-06-25,1949-09-08,F,English,BP,Normal,,NA,NA,118,76,1,0,1,NA,NA
+194,Stonestown YMCA,2024-06-25,1938-05-27,F,English,Cholesterol,Normal,149,NA,NA,NA,NA,NA,NA,NA,NA,NA
+194,Stonestown YMCA,2024-06-25,1938-05-27,F,English,Glucose,Normal,,100,0,NA,NA,NA,NA,NA,NA,NA
+194,Stonestown YMCA,2024-06-25,1938-05-27,F,English,BP,Normal,,NA,NA,109,71,1,0,NA,NA,NA
+291,Stonestown YMCA,2024-06-25,1952-01-18,F,English,Cholesterol,Normal,149,NA,NA,NA,NA,NA,NA,NA,NA,NA
+291,Stonestown YMCA,2024-06-25,1952-01-18,F,English,Glucose,Normal,,85,0,NA,NA,NA,NA,NA,NA,NA
+291,Stonestown YMCA,2024-06-25,1952-01-18,F,English,BP,Abnormal,,NA,NA,137,79,1,0,1,NA,NA
+126,Stonestown YMCA,2024-06-25,1952-08-09,F,English,Cholesterol,Abnormal,210,NA,NA,NA,NA,NA,NA,NA,NA,NA
+126,Stonestown YMCA,2024-06-25,1952-08-09,F,English,Glucose,Normal,,108,0,NA,NA,NA,NA,NA,NA,NA
+126,Stonestown YMCA,2024-06-25,1952-08-09,F,English,BP,Abnormal,,NA,NA,145,87,1,0,NA,NA,NA
+23,Stonestown YMCA,2024-06-25,1958-06-08,M,English,Cholesterol,Normal,158,NA,NA,NA,NA,1,NA,NA,NA,NA
+124,Stonestown YMCA,2024-06-25,1934-06-23,F,English,Glucose,Abnormal,301,NA,NA,NA,NA,NA,NA,NA,NA,NA
+124,Stonestown YMCA,2024-06-25,1934-06-23,F,English,BP,Normal,,102,0,NA,NA,NA,NA,NA,NA,NA
+124,Stonestown YMCA,2024-06-25,1934-06-23,F,English,Cholesterol,Abnormal,,NA,NA,141,72,NA,NA,NA,NA,NA
+314,Stonestown YMCA,2024-06-25,1949-02-27,M,Chinese,Cholesterol,Normal,149,NA,NA,NA,NA,NA,NA,NA,NA,NA
+314,Stonestown YMCA,2024-06-25,1949-02-27,M,Chinese,Glucose,Abnormal,,105,1,NA,NA,NA,NA,NA,NA,NA
+314,Stonestown YMCA,2024-06-25,1949-02-27,M,Chinese,BP,Abnormal,,NA,NA,133,70,1,0,NA,NA,NA
+314,Stonestown YMCA,2024-06-25,1949-02-27,M,Chinese,BP,Normal,,NA,NA,117,62,NA,NA,NA,NA,NA
+32,MNC,2024-07-05,1948-03-05,M,Spanish,Cholesterol,Normal,149,NA,NA,NA,NA,NA,NA,NA,NA,NA
+32,MNC,2024-07-05,1948-03-05,M,Spanish,Glucose,Normal,,109,0,NA,NA,NA,NA,NA,NA,NA
+32,MNC,2024-07-05,1948-03-05,M,Spanish,BP,Abnormal,,NA,NA,135,88,NA,NA,NA,NA,NA
+108,MNC,2024-07-05,1968-03-25,M,Spanish,Cholesterol,Normal,153,NA,NA,NA,NA,NA,NA,NA,NA,NA
+108,MNC,2024-07-05,1968-03-25,M,Spanish,Glucose,Normal,,108,0,NA,NA,NA,NA,NA,NA,NA
+108,MNC,2024-07-05,1968-03-25,M,Spanish,BP,Abnormal,,NA,NA,123,79,1,1,1,NA,NA
+142,MNC,2024-07-05,1946-05-11,M,Spanish,BP,Abnormal,,NA,NA,163,85,1,0,NA,NA,NA
+155,MNC,2024-07-05,1954-12-17,F,English,Cholesterol,Abnormal,301,NA,NA,NA,NA,NA,NA,NA,NA,NA
+155,MNC,2024-07-05,1954-12-17,F,English,Glucose,Normal,,127,0,NA,NA,NA,NA,NA,NA,NA
+155,MNC,2024-07-05,1954-12-17,F,English,BP,Abnormal,,NA,NA,169,88,1,1,1,NA,NA
+230,MNC,2024-07-05,1949-11-08,F,English,BP,Normal,,NA,NA,120,59,NA,NA,NA,NA,NA
+176,MNC,2024-07-05,1949-11-24,M,Spanish,Cholesterol,Normal,149,NA,NA,NA,NA,NA,NA,NA,NA,NA
+176,MNC,2024-07-05,1949-11-24,M,Spanish,Glucose,Abnormal,,184,0,NA,NA,NA,NA,NA,NA,NA
+176,MNC,2024-07-05,1949-11-24,M,Spanish,BP,Normal,,NA,NA,101,60,NA,1,NA,NA,NA
+261,MNC,2024-07-05,1942-08-06,F,Spanish,Cholesterol,Normal,184,NA,NA,NA,NA,NA,NA,NA,NA,NA
+261,MNC,2024-07-05,1942-08-06,F,Spanish,Glucose,Normal,,133,0,NA,NA,NA,NA,NA,NA,NA
+261,MNC,2024-07-05,1942-08-06,F,Spanish,BP,Normal,,NA,NA,109,58,1,1,1,NA,NA
+185,MNC,2024-07-05,1963-09-15,F,Spanish,Cholesterol,Abnormal,227,NA,NA,NA,NA,NA,NA,NA,NA,NA
+185,MNC,2024-07-05,1963-09-15,F,Spanish,Glucose,Normal,,121,0,NA,NA,NA,NA,NA,NA,NA
+185,MNC,2024-07-05,1963-09-15,F,Spanish,BP,Abnormal,,NA,NA,131,77,1,1,1,NA,NA
+196,MNC,2024-07-05,1938-01-01,F,Spanish,Cholesterol,Abnormal,216,NA,NA,NA,NA,NA,NA,NA,NA,NA
+196,MNC,2024-07-05,1938-01-01,F,Spanish,Glucose,Normal,,101,0,NA,NA,NA,NA,NA,NA,NA
+196,MNC,2024-07-05,1938-01-01,F,Spanish,BP,Normal,,NA,NA,109,73,1,1,NA,NA,NA
+314,MNC,2024-07-05,1949-02-27,M,English,Cholesterol,Normal,155,NA,NA,NA,NA,NA,NA,NA,NA,NA
+314,MNC,2024-07-05,1949-02-27,M,English,Glucose,Abnormal,,202,0,NA,NA,NA,NA,NA,NA,NA
+314,MNC,2024-07-05,1949-02-27,M,English,BP,Normal,,NA,NA,111,68,1,0,0,0,NA
+189,MNC,2024-07-05,1934-05-15,F,Spanish,Cholesterol,Abnormal,227,NA,NA,NA,NA,NA,NA,NA,NA,NA
+189,MNC,2024-07-05,1934-05-15,F,Spanish,Glucose,Abnormal,,263,0,NA,NA,NA,NA,NA,NA,NA
+189,MNC,2024-07-05,1934-05-15,F,Spanish,BP,Normal,,NA,NA,115,68,1,NA,NA,NA,NA
+42,MNC,2024-07-05,1947-07-10,F,Spanish,Cholesterol,Normal,153,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42,MNC,2024-07-05,1947-07-10,F,Spanish,Glucose,Abnormal,,196,0,NA,NA,NA,NA,NA,NA,NA
+42,MNC,2024-07-05,1947-07-10,F,Spanish,BP,Normal,,NA,NA,104,61,1,1,1,NA,NA
+57,MNC,2024-07-05,1949-12-26,F,Chinese,Cholesterol,Normal,178,NA,NA,NA,NA,NA,NA,NA,NA,NA
+57,MNC,2024-07-05,1949-12-26,F,Chinese,Glucose,Abnormal,,195,0,NA,NA,NA,NA,NA,NA,NA
+57,MNC,2024-07-05,1949-12-26,F,Chinese,BP,Abnormal,,NA,NA,140,78,1,1,1,NA,NA
+150,1101 FairFax in Hunters View,2024-10-12,1950-10-05,F,English,Cholesterol,Normal,149,NA,NA,NA,NA,NA,NA,NA,NA,NA
+150,1101 FairFax in Hunters View,2024-10-12,1950-10-05,F,English,Glucose,Normal,,88,0,NA,NA,NA,NA,NA,NA,NA
+150,1101 FairFax in Hunters View,2024-10-12,1950-10-05,F,English,BP,Abnormal,,NA,NA,119,81,1,NA,1,NA,NA
+146,MNC,2024-07-05,1954-10-05,F,Chinese,Cholesterol,Abnormal,208,NA,NA,NA,NA,NA,NA,NA,NA,NA
+146,MNC,2024-07-05,1954-10-05,F,Chinese,Glucose,Normal,,105,0,NA,NA,NA,NA,NA,NA,NA
+146,MNC,2024-07-05,1954-10-05,F,Chinese,BP,Normal,,NA,NA,111,63,1,0,1,NA,NA
+46,Stonestown YMCA,2024-09-17,1950-01-16,F,English,Glucose,Normal,,103,0,NA,NA,NA,NA,NA,NA,NA
+46,Stonestown YMCA,2024-09-17,1950-01-16,F,English,BP,Normal,,NA,NA,114,72,1,0,0,1,NA
+131,Stonestown YMCA,2024-09-17,1959-04-29,F,English,Cholesterol,Abnormal,231,NA,NA,NA,NA,NA,NA,NA,NA,NA
+131,Stonestown YMCA,2024-09-17,1959-04-29,F,English,BP,Normal,,NA,NA,119,77,1,0,1,NA,NA
+322,Stonestown YMCA,2024-09-17,1936-04-08,F,English,Cholesterol,Abnormal,221,NA,NA,NA,NA,NA,NA,NA,NA,NA
+322,Stonestown YMCA,2024-09-17,1936-04-08,F,English,BP,Abnormal,,NA,NA,160,85,NA,NA,NA,NA,NA
+322,Stonestown YMCA,2024-09-17,1936-04-08,F,English,BP,Abnormal,,NA,NA,142,82,1,0,1,NA,NA
+130,Stonestown YMCA,2024-09-17,1998-11-08,F,English,Cholesterol,Normal,184,NA,NA,NA,NA,NA,NA,NA,NA,NA
+130,Stonestown YMCA,2024-09-17,1998-11-08,F,English,Glucose,Normal,,96,0,NA,NA,1,NA,NA,NA,NA
+130,Stonestown YMCA,2024-09-17,1998-11-08,F,English,BP,Normal,,NA,NA,86,59,NA,NA,NA,NA,NA
+23,Stonestown YMCA,2024-09-17,1958-06-08,M,English,Cholesterol,Abnormal,203,NA,NA,NA,NA,NA,NA,NA,NA,NA
+23,Stonestown YMCA,2024-09-17,1958-06-08,M,English,Glucose,Normal,,92,0,NA,NA,NA,NA,NA,NA,NA
+23,Stonestown YMCA,2024-09-17,1958-06-08,M,English,BP,Abnormal,,NA,NA,157,103,1,1,0,NA,NA
+68,Stonestown YMCA,2024-09-17,1986-03-20,F,English,BP,Abnormal,,NA,NA,140,94,1,0,0,1,NA
+307,Stonestown YMCA,2024-09-17,1963-05-11,F,English,Glucose,Normal,,99,0,NA,NA,NA,NA,NA,NA,NA
+307,Stonestown YMCA,2024-09-17,1963-05-11,F,English,BP,Normal,,NA,NA,107,66,1,0,0,1,NA
+135,Stonestown YMCA,2024-09-17,1935-06-24,M,English,Cholesterol,Normal,150,NA,NA,NA,NA,NA,NA,NA,NA,NA
+135,Stonestown YMCA,2024-09-17,1935-06-24,M,English,BP,Abnormal,,NA,NA,121,62,1,1,0,NA,NA
+101,Stonestown YMCA,2024-09-17,1957-03-18,F,Chinese,Cholesterol,Normal,193,NA,NA,NA,NA,NA,NA,NA,NA,NA
+101,Stonestown YMCA,2024-09-17,1957-03-18,F,Chinese,Glucose,Abnormal,,115,1,NA,NA,NA,NA,NA,NA,NA
+101,Stonestown YMCA,2024-09-17,1957-03-18,F,Chinese,BP,Abnormal,,NA,NA,133,79,1,1,1,NA,NA
+117,Stonestown YMCA,2024-09-17,1967-09-14,F,English,Cholesterol,Abnormal,218,NA,NA,NA,NA,NA,NA,NA,NA,NA
+117,Stonestown YMCA,2024-09-17,1967-09-14,F,English,Glucose,Normal,,95,1,NA,NA,NA,NA,NA,NA,NA
+117,Stonestown YMCA,2024-09-17,1967-09-14,F,English,BP,Normal,,NA,NA,89,61,1,0,1,NA,NA
+246,Stonestown YMCA,2024-09-17,1943-04-05,M,English,Cholesterol,Normal,176,NA,NA,NA,NA,NA,NA,NA,NA,NA
+246,Stonestown YMCA,2024-09-17,1943-04-05,M,English,BP,Abnormal,,NA,NA,154,74,NA,NA,NA,NA,NA
+246,Stonestown YMCA,2024-09-17,1943-04-05,M,English,BP,Abnormal,,NA,NA,146,70,1,NA,NA,NA,NA
+9,Stonestown YMCA,2024-09-17,1934-07-16,M,English,Cholesterol,Normal,198,NA,NA,NA,NA,NA,NA,NA,NA,NA
+9,Stonestown YMCA,2024-09-17,1934-07-16,M,English,Glucose,Normal,,96,1,NA,NA,NA,NA,NA,NA,NA
+9,Stonestown YMCA,2024-09-17,1934-07-16,M,English,BP,Abnormal,,NA,NA,157,77,1,1,1,NA,NA
+9,Stonestown YMCA,2024-09-17,1934-07-16,M,English,BP,Abnormal,,NA,NA,162,73,NA,NA,NA,NA,NA
+194,Stonestown YMCA,2024-09-17,1938-05-27,F,English,Cholesterol,Abnormal,222,NA,NA,NA,NA,NA,NA,NA,NA,NA
+194,Stonestown YMCA,2024-09-17,1938-05-27,F,English,BP,Abnormal,,NA,NA,133,77,1,1,0,0,NA
+198,Stonestown YMCA,2024-09-17,1942-04-10,F,English,BP,Abnormal,,NA,NA,125,71,1,1,1,NA,NA
+96,Stonestown YMCA,2024-09-17,1953-09-12,F,English,Glucose,Normal,,110,0,NA,NA,1,1,1,NA,NA
+144,Stonestown YMCA,2024-09-17,1943-07-19,F,Chinese,Cholesterol,Abnormal,212,NA,NA,NA,NA,NA,NA,NA,NA,NA
+144,Stonestown YMCA,2024-09-17,1943-07-19,F,Chinese,Glucose,Normal,,121,0,NA,NA,NA,NA,NA,NA,NA
+144,Stonestown YMCA,2024-09-17,1943-07-19,F,Chinese,BP,Abnormal,,NA,NA,146,81,1,1,0,1,NA
+131,Stonestown YMCA,2024-09-17,1959-04-29,F,English,Cholesterol,Abnormal,201,NA,NA,NA,NA,NA,NA,NA,NA,NA
+131,Stonestown YMCA,2024-09-17,1959-04-29,F,English,BP,Abnormal,,NA,NA,128,83,1,NA,NA,NA,NA
+98,Stonestown YMCA,2024-09-17,1948-08-09,F,English,Cholesterol,Normal,177,NA,NA,NA,NA,NA,NA,NA,NA,NA
+98,Stonestown YMCA,2024-09-17,1948-08-09,F,English,Glucose,Normal,,112,0,NA,NA,NA,NA,NA,NA,NA
+98,Stonestown YMCA,2024-09-17,1948-08-09,F,English,BP,Normal,,NA,NA,120,76,1,NA,NA,NA,NA
+41,Stonestown YMCA,2024-09-17,NA,F,English,Cholesterol,Normal,177,NA,NA,NA,NA,NA,NA,NA,NA,NA
+41,Stonestown YMCA,2024-09-17,NA,F,English,Glucose,Normal,,116,0,NA,NA,NA,NA,NA,NA,NA
+41,Stonestown YMCA,2024-09-17,NA,F,English,BP,Normal,,NA,NA,111,61,1,0,0,1,NA
+287,Stonestown YMCA,2024-09-17,1952-11-01,F,English,Cholesterol,Normal,180,NA,NA,NA,NA,NA,NA,NA,NA,NA
+287,Stonestown YMCA,2024-09-17,1952-11-01,F,English,BP,Abnormal,,NA,NA,119,84,1,0,1,NA,NA
+214,Stonestown YMCA,2024-09-17,1944-06-09,F,Spanish,BP,Abnormal,,NA,NA,145,98,0,0,1,NA,NA
+73,Chinatown YMCA,2024-09-18,1965-01-01,M,Chinese,Cholesterol,Abnormal,288,NA,NA,NA,NA,NA,NA,NA,NA,NA
+73,Chinatown YMCA,2024-09-18,1965-01-01,M,Chinese,Glucose,Normal,,116,0,NA,NA,NA,NA,NA,NA,NA
+73,Chinatown YMCA,2024-09-18,1965-01-01,M,Chinese,BP,Normal,,NA,NA,120,74,NA,1,NA,NA,NA
+306,Chinatown YMCA,2024-09-18,1955-07-01,F,Chinese,BP,Abnormal,,NA,NA,125,86,NA,NA,NA,NA,NA
+133,Chinatown YMCA,2024-09-18,1970-01-01,F,English,BP,Abnormal,,NA,NA,146,102,NA,NA,NA,NA,NA
+328,Chinatown YMCA,2024-09-18,1955-11-10,F,Chinese,Cholesterol,Normal,185,NA,NA,NA,NA,NA,NA,NA,NA,NA
+328,Chinatown YMCA,2024-09-18,1955-11-10,F,Chinese,Glucose,Normal,,87,0,NA,NA,NA,NA,NA,NA,NA
+328,Chinatown YMCA,2024-09-18,1955-11-10,F,Chinese,BP,Abnormal,,NA,NA,121,74,NA,1,NA,NA,NA
+330,Chinatown YMCA,2024-09-18,1936-08-20,M,Chinese,Cholesterol,Normal,196,NA,NA,NA,NA,NA,NA,NA,NA,NA
+330,Chinatown YMCA,2024-09-18,1936-08-20,M,Chinese,Glucose,Normal,,125,0,NA,NA,NA,NA,NA,NA,NA
+330,Chinatown YMCA,2024-09-18,1936-08-20,M,Chinese,BP,Abnormal,,NA,NA,129,62,NA,NA,NA,NA,NA
+335,Chinatown YMCA,2024-09-18,1936-04-17,F,Chinese,BP,Normal,,NA,NA,115,74,NA,NA,NA,NA,NA
+248,Chinatown YMCA,2024-09-18,1934-04-09,F,Chinese,Cholesterol,Abnormal,,225,0,NA,NA,NA,NA,NA,NA,NA
+60,Chinatown YMCA,2024-09-18,NA,F,English,Cholesterol,Abnormal,,NA,NA,NA,NA,NA,NA,NA,NA,NA
+60,Chinatown YMCA,2024-09-18,NA,F,English,BP,Abnormal,,NA,NA,111,83,NA,NA,NA,NA,NA
+336,Chinatown YMCA,2024-09-18,1953-09-05,F,Chinese,Cholesterol,Abnormal,,NA,NA,NA,NA,NA,NA,NA,NA,NA
+336,Chinatown YMCA,2024-09-18,1953-09-05,F,Chinese,Glucose,Normal,,116,0,NA,NA,NA,NA,NA,NA,NA
+336,Chinatown YMCA,2024-09-18,1953-09-05,F,Chinese,BP,Abnormal,,NA,NA,132,79,1,1,1,NA,NA
+78,Chinatown YMCA,2024-09-18,1965-09-05,F,English,Cholesterol,Abnormal,253,NA,NA,NA,NA,NA,NA,NA,NA,NA
+78,Chinatown YMCA,2024-09-18,1965-09-05,F,English,Glucose,Abnormal,,224,0,NA,NA,NA,NA,NA,NA,NA
+78,Chinatown YMCA,2024-09-18,1965-09-05,F,English,BP,Normal,,NA,NA,98,76,1,1,NA,NA,NA
+29,Chinatown YMCA,2024-09-18,NA,M,English,Glucose,Normal,,95,0,NA,NA,NA,NA,NA,NA,NA
+29,Chinatown YMCA,2024-09-18,NA,M,English,BP,Abnormal,,NA,NA,132,78,1,0,1,NA,NA
+170,Chinatown YMCA,2024-09-18,NA,F,English,Cholesterol,Normal,193,NA,NA,NA,NA,NA,NA,NA,NA,NA
+170,Chinatown YMCA,2024-09-18,NA,F,English,Glucose,Normal,,96,0,NA,NA,NA,NA,NA,NA,NA
+170,Chinatown YMCA,2024-09-18,NA,F,English,BP,Abnormal,,NA,NA,136,89,NA,NA,NA,NA,NA
+208,Chinatown YMCA,2024-09-18,1981-10-03,F,Chinese,Cholesterol,Normal,153,NA,NA,NA,NA,NA,NA,NA,NA,NA
+208,Chinatown YMCA,2024-09-18,1981-10-03,F,Chinese,Glucose,Normal,,116,0,NA,NA,NA,NA,NA,NA,NA
+208,Chinatown YMCA,2024-09-18,1981-10-03,F,Chinese,BP,Normal,,NA,NA,109,72,1,1,0,1,NA
+121,Chinatown YMCA,2024-09-18,NA,F,English,BP,Abnormal,,NA,NA,125,90,NA,NA,NA,NA,NA
+54,Chinatown YMCA,2024-09-18,1959-12-23,F,Chinese,Cholesterol,Normal,192,NA,NA,NA,NA,NA,NA,NA,NA,NA
+54,Chinatown YMCA,2024-09-18,1959-12-23,F,Chinese,Glucose,Normal,,76,0,NA,NA,NA,NA,NA,NA,NA
+54,Chinatown YMCA,2024-09-18,1959-12-23,F,Chinese,BP,Normal,,NA,NA,114,77,NA,NA,NA,NA,NA
+320,Chinatown YMCA,2024-09-18,1955-07-07,M,Chinese,Cholesterol,Abnormal,221,NA,NA,NA,NA,NA,NA,NA,NA,NA
+320,Chinatown YMCA,2024-09-18,1955-07-07,M,Chinese,Glucose,Normal,,80,0,NA,NA,NA,NA,NA,NA,NA
+229,Chinatown YMCA,2024-09-18,NA,F,English,Cholesterol,Abnormal,209,NA,NA,NA,NA,NA,NA,NA,NA,NA
+229,Chinatown YMCA,2024-09-18,NA,F,English,Glucose,Normal,,93,0,NA,NA,NA,NA,NA,NA,NA
+229,Chinatown YMCA,2024-09-18,NA,F,English,BP,Abnormal,,NA,NA,139,80,1,1,1,NA,NA
+65,Mission YMCA,2024-09-25,1939-11-22,F,English,BP,Abnormal,,NA,NA,124,74,0,1,1,NA,NA
+278,Mission YMCA,2024-09-25,NA,F,English,BP,Abnormal,,NA,NA,139,89,NA,NA,NA,NA,NA
+224,Mission YMCA,2024-09-25,1943-09-16,F,English,BP,Normal,,NA,NA,117,76,NA,NA,NA,NA,NA
+110,Mission YMCA,2024-09-25,1951-05-31,F,English,BP,Abnormal,,NA,NA,121,71,1,NA,NA,NA,NA
+232,Mission YMCA,2024-09-25,NA,F,English,BP,Normal,,NA,NA,109,66,NA,NA,NA,NA,NA
+168,Mission YMCA,2024-09-25,1953-12-31,F,Spanish,BP,Normal,,NA,NA,106,72,1,0,NA,NA,NA
+180,Mission YMCA,2024-09-25,NA,F,Spanish,BP,Normal,,NA,NA,118,64,1,1,NA,NA,NA
+201,Mission YMCA,2024-09-25,1957-03-25,F,Spanish,BP,Normal,,NA,NA,117,80,1,NA,NA,NA,NA
+148,Mission YMCA,2024-09-25,NA,F,English,BP,Abnormal,,NA,NA,138,73,NA,NA,NA,NA,NA
+67,Mission YMCA,2024-09-25,1944-01-26,F,Spanish,BP,Abnormal,,NA,NA,136,77,1,0,0,1,NA
+318,Mission YMCA,2024-09-25,NA,F,English,BP,Normal,,NA,NA,118,67,NA,NA,NA,NA,NA
+264,Mission YMCA,2024-09-25,NA,M,English,BP,Abnormal,,NA,NA,139,85,NA,NA,NA,NA,NA
+69,Mission YMCA,2024-09-25,NA,M,English,BP,Abnormal,,NA,NA,122,63,NA,NA,NA,NA,NA
+94,Mission YMCA,2024-09-25,1957-09-10,F,Spanish,BP,Abnormal,,NA,NA,138,72,1,0,1,NA,NA
+181,Mission YMCA,2024-09-25,1982-01-10,F,Spanish,BP,Abnormal,,NA,NA,133,99,1,1,1,NA,NA
+244,Mission YMCA,2024-09-25,NA,F,Spanish,BP,Normal,,NA,NA,99,58,NA,NA,NA,NA,NA
+172,Mission YMCA,2024-09-25,1956-02-19,F,Spanish,BP,Normal,,NA,NA,110,73,1,NA,NA,NA,NA
+147,Mission YMCA,2024-09-25,1946-08-16,F,Spanish,BP,Abnormal,,NA,NA,124,67,NA,NA,NA,NA,NA
+90,Mission YMCA,2024-09-25,1944-01-07,M,English,BP,Abnormal,,NA,NA,144,71,NA,NA,NA,NA,NA
+141,Mission YMCA,2024-09-25,NA,F,English,BP,Abnormal,,NA,NA,150,87,NA,NA,NA,NA,NA
+74,Mission YMCA,2024-09-25,1950-04-09,F,Spanish,BP,Abnormal,,NA,NA,154,87,1,1,0,1,NA
+26,Stonestown YMCA,2024-10-15,1957-11-16,F,English,Glucose,Normal,,93,0,NA,NA,NA,NA,NA,NA,NA
+26,Stonestown YMCA,2024-10-15,1957-11-16,F,English,BP,Normal,,NA,NA,106,67,1,NA,NA,NA,NA
+290,Stonestown YMCA,2024-10-15,NA,F,English,Cholesterol,Abnormal,207,NA,NA,NA,NA,NA,NA,NA,NA,NA
+290,Stonestown YMCA,2024-10-15,NA,F,English,Glucose,Normal,,131,0,NA,NA,NA,NA,NA,NA,NA
+290,Stonestown YMCA,2024-10-15,NA,F,English,BP,Abnormal,,NA,NA,142,76,1,1,0,1,NA
+92,Stonestown YMCA,2024-10-15,1948-11-03,F,English,Cholesterol,Abnormal,275,NA,NA,NA,NA,NA,NA,NA,NA,NA
+92,Stonestown YMCA,2024-10-15,1948-11-03,F,English,BP,Abnormal,,NA,NA,167,99,1,0,1,NA,NA
+218,Stonestown YMCA,2024-10-15,1953-04-08,F,English,Cholesterol,Normal,177,NA,NA,NA,NA,NA,NA,NA,NA,NA
+218,Stonestown YMCA,2024-10-15,1953-04-08,F,English,Glucose,Normal,,78,0,NA,NA,NA,NA,NA,NA,NA
+218,Stonestown YMCA,2024-10-15,1953-04-08,F,English,BP,Abnormal,,NA,NA,141,95,1,1,1,NA,NA
+337,Stonestown YMCA,2024-10-15,1940-07-26,F,English,Cholesterol,Normal,172,NA,NA,NA,NA,NA,NA,NA,NA,NA
+337,Stonestown YMCA,2024-10-15,1940-07-26,F,English,BP,Normal,,NA,NA,114,68,1,1,NA,NA,NA
+117,Stonestown YMCA,2024-10-15,1967-09-14,F,English,Cholesterol,Abnormal,208,NA,NA,NA,NA,NA,NA,NA,NA,NA
+117,Stonestown YMCA,2024-10-15,1967-09-14,F,English,Glucose,Normal,,99,0,NA,NA,NA,NA,NA,NA,NA
+117,Stonestown YMCA,2024-10-15,1967-09-14,F,English,BP,Normal,,NA,NA,97,62,1,0,0,1,NA
+46,Stonestown YMCA,2024-10-15,1950-01-16,F,English,Cholesterol,Normal,155,NA,NA,NA,NA,NA,NA,NA,NA,NA
+46,Stonestown YMCA,2024-10-15,1950-01-16,F,English,BP,Abnormal,,NA,NA,121,82,1,0,0,1,NA
+125,Stonestown YMCA,2024-10-15,2014-06-23,F,English,Glucose,Normal,,95,0,NA,NA,NA,NA,NA,NA,NA
+125,Stonestown YMCA,2024-10-15,2014-06-23,F,English,BP,Abnormal,,NA,NA,125,71,1,1,1,NA,NA
+246,Stonestown YMCA,2024-10-15,1943-04-05,F,English,Cholesterol,Normal,164,NA,NA,NA,NA,NA,NA,NA,NA,NA
+246,Stonestown YMCA,2024-10-15,1943-04-05,F,English,Glucose,Normal,,127,0,NA,NA,NA,NA,NA,NA,NA
+246,Stonestown YMCA,2024-10-15,1943-04-05,F,English,BP,Abnormal,,NA,NA,127,58,1,0,1,NA,NA
+83,Stonestown YMCA,2024-10-15,1957-04-03,F,English,Cholesterol,Abnormal,237,NA,NA,NA,NA,NA,NA,NA,NA,NA
+83,Stonestown YMCA,2024-10-15,1957-04-03,F,English,BP,Abnormal,,NA,NA,127,86,NA,NA,NA,NA,NA
+202,Stonestown YMCA,2024-10-15,1949-09-04,F,English,Cholesterol,Normal,169,NA,NA,NA,NA,NA,NA,NA,NA,NA
+202,Stonestown YMCA,2024-10-15,1949-09-04,F,English,BP,Abnormal,,NA,NA,123,79,1,1,1,NA,NA
+265,Stonestown YMCA,2024-10-15,1942-06-13,M,Chinese,Cholesterol,Normal,159,NA,NA,NA,NA,NA,NA,NA,NA,NA
+265,Stonestown YMCA,2024-10-15,1942-06-13,M,Chinese,Glucose,Abnormal,,199,0,NA,NA,NA,NA,NA,NA,NA
+265,Stonestown YMCA,2024-10-15,1942-06-13,M,Chinese,BP,Abnormal,,NA,NA,126,68,1,1,1,NA,NA
+119,Chinatown YMCA,2024-10-16,NA,F,English,Cholesterol,Abnormal,244,NA,NA,NA,NA,NA,NA,NA,NA,NA
+119,Chinatown YMCA,2024-10-16,NA,F,English,BP,Abnormal,,NA,NA,127,80,NA,NA,NA,NA,NA
+163,Chinatown YMCA,2024-10-16,1970-09-12,F,Chinese,Cholesterol,Abnormal,248,NA,NA,NA,NA,NA,NA,NA,NA,NA
+163,Chinatown YMCA,2024-10-16,1970-09-12,F,Chinese,Glucose,Normal,,103,0,NA,NA,NA,NA,NA,NA,NA
+163,Chinatown YMCA,2024-10-16,1970-09-12,F,Chinese,BP,Normal,,NA,NA,111,70,NA,NA,NA,NA,NA
+77,Chinatown YMCA,2024-10-16,1963-05-12,M,Chinese,Cholesterol,Abnormal,274,NA,NA,NA,NA,NA,NA,NA,NA,NA
+99,Chinatown YMCA,2024-10-16,1954-09-20,F,Chinese,Cholesterol,Normal,196,NA,NA,NA,NA,NA,NA,NA,NA,NA
+99,Chinatown YMCA,2024-10-16,1954-09-20,F,Chinese,Glucose,Normal,,93,0,NA,NA,NA,NA,NA,NA,NA
+99,Chinatown YMCA,2024-10-16,1954-09-20,F,Chinese,BP,Abnormal,,NA,NA,133,76,1,1,1,NA,NA
+303,Chinatown YMCA,2024-10-16,NA,M,English,Cholesterol,Abnormal,220,NA,NA,NA,NA,NA,NA,NA,NA,NA
+303,Chinatown YMCA,2024-10-16,NA,M,English,Glucose,Normal,,103,0,NA,NA,NA,NA,NA,NA,NA
+303,Chinatown YMCA,2024-10-16,NA,M,English,BP,Abnormal,,NA,NA,116,82,1,0,0,NA,NA
+61,Chinatown YMCA,2024-10-16,1948-08-10,F,English,Glucose,Normal,,91,0,NA,NA,NA,NA,NA,NA,NA
+61,Chinatown YMCA,2024-10-16,1948-08-10,F,English,BP,Abnormal,,NA,NA,135,85,1,NA,NA,NA,NA
+242,Chinatown YMCA,2024-10-16,1949-09-08,F,English,Cholesterol,Normal,140,NA,NA,NA,NA,NA,NA,NA,NA,NA
+242,Chinatown YMCA,2024-10-16,1949-09-08,F,English,BP,Normal,,NA,NA,120,78,NA,NA,NA,NA,NA
+214,Chinatown YMCA,2024-10-16,1944-06-09,F,English,Cholesterol,Normal,190,NA,NA,NA,NA,NA,NA,NA,NA,NA
+214,Chinatown YMCA,2024-10-16,1944-06-09,F,English,Glucose,Abnormal,,101,1,NA,NA,NA,NA,NA,NA,NA
+214,Chinatown YMCA,2024-10-16,1944-06-09,F,English,BP,Abnormal,,NA,NA,130,80,0,0,1,NA,NA
+302,Chinatown YMCA,2024-10-16,1948-04-26,F,English,Cholesterol,Normal,156,NA,NA,NA,NA,NA,NA,NA,NA,NA
+302,Chinatown YMCA,2024-10-16,1948-04-26,F,English,Glucose,Normal,,91,0,NA,NA,NA,NA,NA,NA,NA
+302,Chinatown YMCA,2024-10-16,1948-04-26,F,English,BP,Abnormal,,NA,NA,128,76,1,1,1,NA,NA
+203,Mission YMCA,2024-11-18,1956-06-29,M,English,BP,Abnormal,,NA,NA,134,66,1,NA,NA,NA,NA
+197,Mission YMCA,2024-11-18,1965-05-18,F,English,BP,Abnormal,,NA,NA,115,97,NA,NA,NA,NA,NA
+308,Mission YMCA,2024-11-18,1963-08-10,M,Spanish,BP,Abnormal,,NA,NA,131,76,NA,NA,NA,NA,NA
+116,Mission YMCA,2024-11-18,1984-07-16,F,English,BP,Abnormal,,NA,NA,134,99,1,1,1,NA,NA
+278,Mission YMCA,2024-11-18,NA,F,English,BP,Abnormal,,NA,NA,145,95,1,0,NA,NA,NA
+67,Mission YMCA,2024-11-18,1944-01-26,F,Spanish,BP,Abnormal,,NA,NA,135,81,1,0,1,NA,NA
+90,Mission YMCA,2024-11-18,1944-01-07,M,English,BP,Abnormal,,NA,NA,147,74,1,1,0,1,NA
+118,Mission YMCA,2024-11-18,1957-07-07,F,Spanish,BP,Abnormal,,NA,NA,102,84,1,1,1,NA,NA
+220,Mission YMCA,2024-11-18,1951-01-29,F,Spanish,BP,Normal,,NA,NA,116,62,0,0,1,NA,NA
+231,Mission YMCA,2024-11-18,1943-02-22,F,Spanish,BP,Abnormal,,NA,NA,142,82,1,1,1,NA,NA
+241,Mission YMCA,2024-11-18,1949-06-04,F,English,BP,Abnormal,,NA,NA,128,68,1,1,1,NA,NA
+213,Mission YMCA,2024-11-18,1957-07-29,F,Chinese,BP,Abnormal,,NA,NA,135,80,1,NA,NA,NA,NA
+168,Mission YMCA,2024-11-18,1953-12-31,F,Spanish,BP,Normal,,NA,NA,104,77,1,0,NA,NA,NA
+257,Mission YMCA,2024-11-18,1957-05-27,F,English,BP,Abnormal,,NA,NA,122,71,1,NA,NA,NA,NA
+74,Mission YMCA,2024-11-18,1950-04-09,F,Spanish,BP,Abnormal,,NA,NA,145,87,1,1,1,NA,NA
+319,Mission YMCA,2024-11-18,1953-08-24,F,English,BP,Abnormal,,NA,NA,125,60,1,NA,NA,NA,NA
+50,Mission YMCA,2024-11-18,1941-12-16,F,English,BP,Abnormal,,NA,NA,135,71,1,1,NA,NA,NA
+244,Mission YMCA,2024-11-18,NA,F,English,BP,Normal,,NA,NA,113,54,1,NA,NA,NA,NA
+224,Mission YMCA,2024-11-18,1943-09-16,F,English,BP,Normal,,NA,NA,107,75,1,NA,NA,NA,NA
+65,Mission YMCA,2024-11-18,1939-11-22,F,Spanish,BP,Abnormal,,NA,NA,136,85,1,1,0,1,NA
+147,Mission YMCA,2024-11-18,1946-08-16,F,Spanish,BP,Abnormal,,NA,NA,168,84,NA,NA,NA,NA,NA
+147,Mission YMCA,2024-11-18,1946-08-16,F,Spanish,BP,Abnormal,,NA,NA,174,84,1,1,1,NA,NA
+223,Mission YMCA,2024-11-18,1949-01-26,F,Spanish,BP,Normal,,NA,NA,113,67,1,NA,NA,NA,NA
+155,Mission YMCA,2024-10-21,1954-12-17,F,English,BP,Abnormal,,NA,NA,158,83,1,1,1,NA,NA
+308,Mission YMCA,2024-11-18,1963-08-10,M,Spanish,BP,Abnormal,,NA,NA,127,71,1,NA,NA,NA,NA
+179,Mission YMCA,2024-10-21,NA,F,English,BP,Abnormal,,NA,NA,135,92,NA,NA,NA,NA,NA
+15,Mission YMCA,2024-10-21,NA,F,English,BP,Abnormal,,NA,NA,151,66,NA,NA,NA,NA,NA
+53,Mission YMCA,2024-10-21,NA,F,Spanish,BP,Abnormal,,NA,NA,133,83,1,1,1,NA,NA
+145,Mission YMCA,2024-10-21,NA,F,English,BP,Normal,,NA,NA,119,71,NA,NA,NA,NA,NA
+244,Mission YMCA,2024-10-21,NA,F,English,BP,Normal,,NA,NA,119,71,NA,NA,NA,NA,NA
+147,Mission YMCA,2024-10-21,1946-08-16,F,Spanish,BP,Abnormal,,NA,NA,127,81,1,NA,NA,NA,NA
+158,Mission YMCA,2024-10-21,NA,F,English,BP,Abnormal,,NA,NA,127,81,NA,NA,NA,NA,NA
+181,Mission YMCA,2024-10-21,1982-01-10,F,Spanish,BP,Abnormal,,NA,NA,124,88,NA,NA,NA,NA,NA
+148,Mission YMCA,2024-10-21,NA,F,English,BP,Abnormal,,NA,NA,121,62,1,NA,NA,NA,NA
+164,Mission YMCA,2024-10-21,NA,F,English,BP,Abnormal,,NA,NA,128,80,1,NA,NA,NA,NA
+249,Chinatown YMCA,2024-11-20,1958-09-10,F,Chinese,Glucose,Normal,,95,0,NA,NA,NA,NA,NA,NA,NA
+249,Chinatown YMCA,2024-11-20,1958-09-10,F,Chinese,BP,Abnormal,,NA,NA,120,82,NA,NA,NA,NA,NA
+212,Chinatown YMCA,2024-11-20,1953-10-10,F,Chinese,Cholesterol,Normal,176,NA,NA,NA,NA,NA,NA,NA,NA,NA
+212,Chinatown YMCA,2024-11-20,1953-10-10,F,Chinese,Glucose,Normal,,110,0,NA,NA,NA,NA,NA,NA,NA
+212,Chinatown YMCA,2024-11-20,1953-10-10,F,Chinese,BP,Normal,,NA,NA,115,74,1,1,1,NA,NA
+234,Chinatown YMCA,2024-11-20,1953-05-25,F,Chinese,BP,Abnormal,,NA,NA,136,78,1,0,1,NA,NA
+294,Chinatown YMCA,2024-11-20,1958-08-07,F,Chinese,Cholesterol,Normal,194,NA,NA,NA,NA,NA,NA,NA,NA,NA
+294,Chinatown YMCA,2024-11-20,1958-08-07,F,Chinese,Glucose,Normal,,88,0,NA,NA,NA,NA,NA,NA,NA
+294,Chinatown YMCA,2024-11-20,1958-08-07,F,Chinese,BP,Normal,,NA,NA,104,69,1,0,0,1,NA
+328,Chinatown YMCA,2024-11-20,1955-11-10,F,Chinese,Cholesterol,Normal,184,NA,NA,NA,NA,NA,NA,NA,NA,NA
+328,Chinatown YMCA,2024-11-20,1955-11-10,F,Chinese,BP,Abnormal,,NA,NA,127,78,NA,NA,NA,NA,NA
+315,Chinatown YMCA,2024-11-20,1959-11-08,M,Chinese,Cholesterol,Normal,169,NA,NA,NA,NA,NA,NA,NA,NA,NA
+315,Chinatown YMCA,2024-11-20,1959-11-08,M,Chinese,Glucose,Normal,,125,0,NA,NA,NA,NA,NA,NA,NA
+99,Chinatown YMCA,2024-11-20,1954-09-20,F,Chinese,Glucose,Abnormal,,108,1,NA,NA,NA,NA,NA,NA,NA
+99,Chinatown YMCA,2024-11-20,1954-09-20,F,Chinese,BP,Abnormal,,NA,NA,155,79,1,1,1,NA,NA
+247,Chinatown YMCA,2024-11-20,1924-04-09,F,Chinese,Cholesterol,Abnormal,259,NA,NA,NA,NA,NA,NA,NA,NA,NA
+247,Chinatown YMCA,2024-11-20,1924-04-09,F,Chinese,Glucose,Abnormal,,165,0,NA,NA,NA,NA,NA,NA,NA
+247,Chinatown YMCA,2024-11-20,1924-04-09,F,Chinese,BP,Abnormal,,NA,NA,133,95,1,1,1,NA,NA
+280,Chinatown YMCA,2024-11-20,1969-05-09,M,Chinese,Cholesterol,Normal,200,NA,NA,NA,NA,NA,NA,NA,NA,NA
+280,Chinatown YMCA,2024-11-20,1969-05-09,M,Chinese,Glucose,Normal,,108,0,NA,NA,NA,NA,NA,NA,NA
+280,Chinatown YMCA,2024-11-20,1969-05-09,M,Chinese,BP,Abnormal,,NA,NA,155,92,0,1,1,NA,NA
+114,Chinatown YMCA,2024-11-20,NA,M,Chinese,BP,Abnormal,,NA,NA,136,76,1,1,1,NA,NA
+2,Chinatown YMCA,2024-11-20,NA,F,English,Cholesterol,Normal,198,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2,Chinatown YMCA,2024-11-20,NA,F,English,BP,Normal,,NA,NA,116,74,1,0,0,NA,NA
